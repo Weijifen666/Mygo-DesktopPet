@@ -1,0 +1,15 @@
+{
+  "name": "mygo-live2d-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Transparent Windows desktop shell for the local MyGO Live2D widget",
+  "main": "main.cjs",
+  "scripts": {
+    "start": "electron .",
+    "setup:upstream": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/setup-upstream.ps1",
+    "test": "node test-awareness-policy.cjs && node test-character-dialogue.cjs"
+  },
+  "devDependencies": {
+    "electron": "44.4.5"
+  }
+}

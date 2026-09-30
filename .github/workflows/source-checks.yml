@@ -1,0 +1,32 @@
+name: Source checks
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  windows-source:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: Install Node dependencies
+        run: npm ci --ignore-scripts --no-audit --no-fund
+      - name: Test desktop logic
+        run: npm test
+      - name: Check source syntax and public files
+        shell: pwsh
+        run: |
+          node --check desktop.js
+          node --check main.cjs
+          node --check widget-voice-bank.js
+          python -m compileall -q tts scripts
+          python scripts/check-public-tree.py --tracked

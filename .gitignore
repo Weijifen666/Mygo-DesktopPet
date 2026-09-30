@@ -1,0 +1,54 @@
+# Runtime dependencies, local user state and generated reports
+node_modules/
+runtime/
+experiments/
+output/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.bak
+.env
+.env.*
+agent-memory.json
+agent-secret.json
+
+# Downloaded upstream visual resources and generated widget bundles
+assets/
+model/
+index.html
+index.js
+autoload.js
+waifu.css
+live2d.min.js
+live2dcubismcore.min.js
+
+# Private voices, references, adapters and locally generated fixed speech
+tts/cache/
+tts/widget-bank/*
+!tts/widget-bank/catalog.json
+!tts/widget-bank/translations.json
+tts/cosy-production.json
+tts/original-fixed-recordings.json
+tts/tts_infer.yaml
+tts/voices.local.json
+tts/voices.experimental.json
+
+# Defense in depth against accidentally staging media or model weights
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.bin
+*.zip
+*.7z
+*.tar
+*.gz
+*.sqlite
+*.db

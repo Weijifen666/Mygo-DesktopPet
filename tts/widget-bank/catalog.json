@@ -1,0 +1,5021 @@
+{
+  "source_sha256": "8097558453b510520e2f5825db154748ee03cd8e2dadfd1bfcc7350e1081efba",
+  "rows": [
+    {
+      "id": "093326212f2f8bf1a8a0633b",
+      "role": "tomori",
+      "source": "这是纹颊企鹅……这是阿德利企鹅……我还有别的企鹅系列创可贴哦。",
+      "motion": "smile01"
+    },
+    {
+      "id": "37eadeb3ca326f87dd205ab3",
+      "role": "tomori",
+      "source": "能和我组一辈子的乐队吗？",
+      "motion": "kandou01"
+    },
+    {
+      "id": "17e9d875dd9e40cd9f640d4b",
+      "role": "tomori",
+      "source": "比起悲伤之情，我先想到的是……如果把泪水收集起来就好了……",
+      "motion": "sad01"
+    },
+    {
+      "id": "83bc3f8dea178e86fb0530a7",
+      "role": "tomori",
+      "source": "已经落下来的花，应该是死掉了……",
+      "motion": "sad02"
+    },
+    {
+      "id": "3076f449dc7399da0a179e69",
+      "role": "tomori",
+      "source": "这个笔记本，封面有各种图案……我有全部种类。",
+      "motion": "smile02"
+    },
+    {
+      "id": "c0a3963e131f3c411664890f",
+      "role": "tomori",
+      "source": "之前小祥说的独角仙笔记本……我找了很久才买到……",
+      "motion": "smile03"
+    },
+    {
+      "id": "41c34d4808ea0194895a5fc2",
+      "role": "tomori",
+      "source": "想要……成为人类……",
+      "motion": "serious01"
+    },
+    {
+      "id": "6f23fdd5e52c94b55f1d1227",
+      "role": "tomori",
+      "source": "我想拥有重要的事物……让我像大家那样流泪……",
+      "motion": "cry01"
+    },
+    {
+      "id": "d574b5a71d224094763eaa14",
+      "role": "tomori",
+      "source": "小爱，一直在前进。就算遇到了死胡同，也会努力寻找出路，试图向前……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "4919f16d4a3d4ad9e42b87f2",
+      "role": "tomori",
+      "source": "即便迷茫，也要前进！",
+      "motion": "kime01"
+    },
+    {
+      "id": "bdaab8565d704fd1c54c2b18",
+      "role": "tomori",
+      "source": "要一起前进吗？我们一起继续迷路下去……",
+      "motion": "kime02"
+    },
+    {
+      "id": "620f0f06352719524ab9832f",
+      "role": "tomori",
+      "source": "海洋生物系列第6弹。珊瑚礁鬼蝠𫚉、翻车鱼、皇带鱼、鲸鲨、蓝鲸和长须鲸……",
+      "motion": "smile04"
+    },
+    {
+      "id": "a14b85bb8343444e5ec82c35",
+      "role": "tomori",
+      "source": "我们怀着脆弱的内心活着，生来就是易伤的动物……",
+      "motion": "sad03"
+    },
+    {
+      "id": "a6cfe1de6cb688fbe8413304",
+      "role": "tomori",
+      "source": "我能做的就只有拼命去唱了，因为我的歌，就是内心的呐喊！",
+      "motion": "sing01"
+    },
+    {
+      "id": "0b22de5359ded6f9faeaf32f",
+      "role": "tomori",
+      "source": "光芒穿过云间，闪闪发亮；填满我的心，直到满溢。",
+      "motion": "sing02"
+    },
+    {
+      "id": "089e2836e23ca746fd2f6b15",
+      "role": "tomori",
+      "source": "泪水流不出来，眼角却隐隐刺痛……",
+      "motion": "cry02"
+    },
+    {
+      "id": "72aba8315ed4a51f26a82a3d",
+      "role": "tomori",
+      "source": "即便在大都市，也能看到北极星……第一次发现的时候很惊讶。",
+      "motion": "surprised01"
+    },
+    {
+      "id": "81578df34dc54ef0edbfda98",
+      "role": "tomori",
+      "source": "说不出口的话，歌可以比话语更好地表达……",
+      "motion": "thinking02"
+    },
+    {
+      "id": "149f2bf23432697f9002d602",
+      "role": "tomori",
+      "source": "就算迷失方向，绕了远路……还是有人陪我前进！",
+      "motion": "kandou02"
+    },
+    {
+      "id": "2d261feec96bddf88195fb4b",
+      "role": "tomori",
+      "source": "我需要爱音！不能没有小爱！让我们……一起迷路吧……",
+      "motion": "kandou03"
+    },
+    {
+      "id": "744b0836d810deee417777b0",
+      "role": "tomori",
+      "source": "一辈子不受伤，是不可能的。就算满身伤痕、满身污泥……也要拼尽全力！",
+      "motion": "serious02"
+    },
+    {
+      "id": "c13b3462945ae397109e0525",
+      "role": "tomori",
+      "source": "小爱她非常迷茫，我也想成为她那样的迷路的孩子……",
+      "motion": "sad04"
+    },
+    {
+      "id": "8fb0f5f55470c88e3e537ed3",
+      "role": "tomori",
+      "source": "当我不安时，小乐奈总会陪在我身边……",
+      "motion": "smile01"
+    },
+    {
+      "id": "9f458acfd6ff048f0d606c65",
+      "role": "tomori",
+      "source": "即使我们家最近的车站不一样，小立希也总会送我到家门口。",
+      "motion": "smile01"
+    },
+    {
+      "id": "27194264daf0f5f3df607212",
+      "role": "tomori",
+      "source": "迷路也不要紧，迷茫也要前进！",
+      "motion": "kime01"
+    },
+    {
+      "id": "581f8784d5d6657053831aa8",
+      "role": "tomori",
+      "source": "只要将无数个瞬间积攒起来……我想就能成为一辈子。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "0c7889c1d871aea22e144c7a",
+      "role": "tomori",
+      "source": "要是创可贴，也能贴在心灵上就好了……",
+      "motion": "shame01"
+    },
+    {
+      "id": "dbb7b71fbe465f5dd985abad",
+      "role": "tomori",
+      "source": "小立希……可以夸一夸小爱吗？",
+      "motion": "shame02"
+    },
+    {
+      "id": "04cdaf98022ac04d48633531",
+      "role": "tomori",
+      "source": "小乐奈，这块石头的形状……格外像猫咪……",
+      "motion": "smile02"
+    },
+    {
+      "id": "4b2175163941e7eaed1244c0",
+      "role": "tomori",
+      "source": "小爱想了解……过去的我？那……我明天把小时候的照片……拿来吧。",
+      "motion": "smile03"
+    },
+    {
+      "id": "b9d1548b64e55e4a275d27d9",
+      "role": "tomori",
+      "source": "只有我和小乐奈两个人的时候，该聊点什么呢？",
+      "motion": "thinking02"
+    },
+    {
+      "id": "f9ab62fae95d831000d36ec8",
+      "role": "tomori",
+      "source": "我是不是……也去弹乐器比较好……？小爱之前说过的……手鼓或是三角铁之类的……",
+      "motion": "serious01"
+    },
+    {
+      "id": "3873211e169f1d6f6b77c9ce",
+      "role": "tomori",
+      "source": "发现了好东西……太好了！",
+      "motion": "surprised01"
+    },
+    {
+      "id": "cf70c17f69a0e88d6efe7605",
+      "role": "tomori",
+      "source": "……我想要透明的盒子，想把石头都摆在一起……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "01a47787475a5641cf839361",
+      "role": "tomori",
+      "source": "啊，那个……我想……既然是命中注定，那也没办法吧。",
+      "motion": "shame01"
+    },
+    {
+      "id": "04d97cd3281df9947f2f4f27",
+      "role": "tomori",
+      "source": "……鱼肉汉堡和鳄梨汉堡……该选哪个呢……",
+      "motion": "thinking02"
+    },
+    {
+      "id": "f1327b8410372b36d9959236",
+      "role": "tomori",
+      "source": "今天有体育课。虽然我不擅长运动……但「即便迷茫，也要前进」！",
+      "motion": "kime01"
+    },
+    {
+      "id": "9de27cde7d36591ea9b27f01",
+      "role": "tomori",
+      "source": "……啊。果汁，我中奖了……！多掉出来一瓶……要是拿给小爱，她会不会开心呢？",
+      "motion": "surprised01"
+    },
+    {
+      "id": "342b03886a0c1e9367360b35",
+      "role": "tomori",
+      "source": "有好多种款式的拨片在卖……这是，眼泪的形状……？这边的……好像是饭团……",
+      "motion": "smile04"
+    },
+    {
+      "id": "ee3b305d12ec83f8d9fbe5a5",
+      "role": "tomori",
+      "source": "今天的天文馆……「黄道十二星座特辑」……不过，水族馆也有……「海中宝石特辑」……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "fee3bd63fc6909b6c8f6e3f5",
+      "role": "tomori",
+      "source": "……前任天文部部长在日志上留下了一段话。「只要好好把活动成果报告给学生会就好了哦！」",
+      "motion": "serious02"
+    },
+    {
+      "id": "2513461fd4b2b857d8e1159e",
+      "role": "tomori",
+      "source": "有好多乐队的宣传单……！「幽灵合唱团」「方吐司的被窝」「追逐会动的点P」……",
+      "motion": "surprised01"
+    },
+    {
+      "id": "ead0630a02b23f0b26470686",
+      "role": "tomori",
+      "source": "我觉得……鱼子里面……蕴含着生命……",
+      "motion": "thinking02"
+    },
+    {
+      "id": "cef7ef53f68a5c319217c04d",
+      "role": "tomori",
+      "source": "上大学后，衣服……每天都要自己挑选，好像很麻烦……",
+      "motion": "sad01"
+    },
+    {
+      "id": "ba78ef6f2c13151ceb3c911a",
+      "role": "tomori",
+      "source": "买了许多便签……感觉可以用便签来排列话语……",
+      "motion": "smile01"
+    },
+    {
+      "id": "6995a150fd21b634396daf27",
+      "role": "anon",
+      "source": "为了下次不失败而努力不就好了？",
+      "motion": "kime01"
+    },
+    {
+      "id": "97682bbd5155aab338f60a52",
+      "role": "anon",
+      "source": "就算失败一次，也要有重来的信心。",
+      "motion": "kime02"
+    },
+    {
+      "id": "d70442dfc5fce779f2b878d5",
+      "role": "anon",
+      "source": "就算失败一次，也要有重来的信心。不然人生这么长，怎么过得下去？",
+      "motion": "kime02"
+    },
+    {
+      "id": "618d2818cc8bf398bb4d297a",
+      "role": "anon",
+      "source": "月之森的同学真的会用「贵安」打招呼吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "e0e8292ecac377da48ca12e5",
+      "role": "anon",
+      "source": "快速轻松提升水平计划失败……反正现在练习也不可能立马弹得好，先看看喵梦亲吧。",
+      "motion": "sad01"
+    },
+    {
+      "id": "088ccacd9b9073ec8453c71a",
+      "role": "anon",
+      "source": "那么～要不要一起前进？一起在迷失之中前进。",
+      "motion": "smile01"
+    },
+    {
+      "id": "1f0484b7ec5dc746fac50e03",
+      "role": "anon",
+      "source": "我没有逃避！……什么没逃避，明明是拼了命逃掉了……",
+      "motion": "shame01"
+    },
+    {
+      "id": "dedb4b571bbf0d32f5f6cdb0",
+      "role": "anon",
+      "source": "就算迷茫，也要前进！",
+      "motion": "kime01"
+    },
+    {
+      "id": "98254ce90548e07709f699ee",
+      "role": "anon",
+      "source": "好疼……练吉他的时候，手指都肿成这样了……",
+      "motion": "cry01"
+    },
+    {
+      "id": "cd92f3ba580f7aa308436979",
+      "role": "anon",
+      "source": "爽世世给我推荐的香薰，让人放松的效果太好了～",
+      "motion": "smile02"
+    },
+    {
+      "id": "e41c943390767e2b09cebac7",
+      "role": "anon",
+      "source": "上次和灯灯等狸希的时候，等了2小时56分31秒～",
+      "motion": "thinking02"
+    },
+    {
+      "id": "2ff3459c7506e3cf42d7a737",
+      "role": "anon",
+      "source": "我很擅长写作文的！",
+      "motion": "smile03"
+    },
+    {
+      "id": "ce3c0c894d70ffaf1b8ffc81",
+      "role": "anon",
+      "source": "小乐奈和……好长的猫！",
+      "motion": "surprised01"
+    },
+    {
+      "id": "2d8ebec5c7fb628320d270f6",
+      "role": "anon",
+      "source": "气氛好热烈！大家都穿着可爱的舞台服，好羡慕～",
+      "motion": "smile04"
+    },
+    {
+      "id": "acf882143e828e53df33de23",
+      "role": "anon",
+      "source": "我在台上看得到大家哦～",
+      "motion": "smile01"
+    },
+    {
+      "id": "0e526305d4145c5db3973964",
+      "role": "anon",
+      "source": "爽世世那么温柔，肯定会原谅我的！",
+      "motion": "smile02"
+    },
+    {
+      "id": "703a7a2891a0ed431dc64bf0",
+      "role": "anon",
+      "source": "都是灯灯的错哦！",
+      "motion": "angry01"
+    },
+    {
+      "id": "73821a26ff1f00c6ccca448a",
+      "role": "anon",
+      "source": "爽世世的家简直就是豪华酒店，毫无生活气息啊～",
+      "motion": "thinking03"
+    },
+    {
+      "id": "4567082c7c0b0a778ab6e57b",
+      "role": "anon",
+      "source": "爽世世表里不一、满嘴谎言，还有好多坏心眼哦！",
+      "motion": "angry02"
+    },
+    {
+      "id": "6d8f833a5b50eed0cef39431",
+      "role": "anon",
+      "source": "我不会退出了，爽世世也不要退出哦～",
+      "motion": "smile03"
+    },
+    {
+      "id": "e8b761f6678d2dc784f30aca",
+      "role": "anon",
+      "source": "狸希真是专一啊，这就不理我了？",
+      "motion": "sad02"
+    },
+    {
+      "id": "df060e1cdb0572aa6bbf1070",
+      "role": "anon",
+      "source": "被固有印象束缚，我觉得可不太好～表现方式就应该多种多样！",
+      "motion": "thinking01"
+    },
+    {
+      "id": "810b3336f773cad16da877cd",
+      "role": "anon",
+      "source": "话说这夜景好漂亮，大家一起来拍照吧！之后发到社交平台上！",
+      "motion": "smile04"
+    },
+    {
+      "id": "436363da4a1e9423581962eb",
+      "role": "anon",
+      "source": "小乐奈的吉他，要用多久才会变成这样呢……？",
+      "motion": "thinking02"
+    },
+    {
+      "id": "6ecfbc48211b40b8c92da2d3",
+      "role": "anon",
+      "source": "我的效果器被爽世世踩了……连我自己都没踩过呢……",
+      "motion": "cry02"
+    },
+    {
+      "id": "09ccc85da6e529aedd72c039",
+      "role": "anon",
+      "source": "要不我也去办个水族馆年票吧……？",
+      "motion": "thinking03"
+    },
+    {
+      "id": "55873fe0f3734907d6158cc8",
+      "role": "anon",
+      "source": "Sumimi 的初华……好温柔！怎么办！好开心！",
+      "motion": "smile01"
+    },
+    {
+      "id": "d4fcbe0a9c48a9877fc76662",
+      "role": "anon",
+      "source": "呐呐，狸希也夸夸我可爱吧？",
+      "motion": "wink01"
+    },
+    {
+      "id": "9b156fec08b33db8fa420ea3",
+      "role": "anon",
+      "source": "狸希在听什么？阿夫特楼的歌？……是Afterglow前辈们的优美乐曲吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "c53b12501f21f9ed0c7b44a3",
+      "role": "anon",
+      "source": "只有爽世世和狸希了解过去的灯灯太不公平了！再多跟我讲讲灯灯的事情啦！",
+      "motion": "angry03"
+    },
+    {
+      "id": "cf2d14ee460fb1bc22c44250",
+      "role": "anon",
+      "source": "诶诶～爽世世不让我们到家里面去吗～",
+      "motion": "sad01"
+    },
+    {
+      "id": "d91c45fba0481042243fdbbc",
+      "role": "anon",
+      "source": "我们不是可疑人士～是住这里45层的长崎小姐的朋友！",
+      "motion": "smile02"
+    },
+    {
+      "id": "c05796ee223ac2561d23d72f",
+      "role": "anon",
+      "source": "RiNG的时令菜单很时尚呢～",
+      "motion": "smile03"
+    },
+    {
+      "id": "750a311927c50cecef555373",
+      "role": "anon",
+      "source": "拨片快用完了……我要去买一些。灯灯有什么需要的吗？",
+      "motion": "thinking02"
+    },
+    {
+      "id": "07d88ee892ecb122e27b646a",
+      "role": "anon",
+      "source": "呐呐，爽世世，在月之森，学生之间会互相邀请参加派对吗？",
+      "motion": "thinking03"
+    },
+    {
+      "id": "5262e90545ebf613fff08d2b",
+      "role": "anon",
+      "source": "在Live House打工，总觉得很帅气呢～我要不要也在 RiNG 打工呢？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "04ae7eef44f98d700893ccd5",
+      "role": "anon",
+      "source": "买了很多，暂时没有购物欲了……啊！？那边的连衣裙……是之前售罄的款式……！",
+      "motion": "surprised01"
+    },
+    {
+      "id": "8ab49be45b707f80a579cba5",
+      "role": "anon",
+      "source": "诶，不会吧，又有货了？这难道是命中注定的吗！？不不这个月可不能再买了……",
+      "motion": "thinking02"
+    },
+    {
+      "id": "3a2d5a5eedbb51b07df1ac9f",
+      "role": "anon",
+      "source": "那个风衣的兜帽上有猫耳，感觉应该挺适合小乐奈的吧？",
+      "motion": "smile04"
+    },
+    {
+      "id": "2f4895763682262bea95ad2e",
+      "role": "anon",
+      "source": "这种东西，要是别人送的，不是更开心吗？",
+      "motion": "wink01"
+    },
+    {
+      "id": "bf2bb7686e91a90e29dd8ef2",
+      "role": "anon",
+      "source": "要不要点一份芝士汉堡搭薯条的套餐呢～灯灯你要点什么？",
+      "motion": "smile01"
+    },
+    {
+      "id": "ab9fa41c0c0307359c7b0726",
+      "role": "anon",
+      "source": "那要不然，我选鳄梨汉堡，灯灯选鱼肉汉堡吧？我们可以互相分一半哦！",
+      "motion": "smile02"
+    },
+    {
+      "id": "73064a6796287fd69c24de1a",
+      "role": "anon",
+      "source": "BLT汉堡是培根生菜番茄汉堡的简称哦！可能是因为读起来太长了？",
+      "motion": "thinking03"
+    },
+    {
+      "id": "2649a21cccd7594bb982a946",
+      "role": "anon",
+      "source": "呐呐，爽世世～关于这次的练习啊……我说，你那是什么表情啊",
+      "motion": "angry04"
+    },
+    {
+      "id": "bc2906d18287ac92c1652851",
+      "role": "anon",
+      "source": "诶～不喜欢「爽世世」的话，那就叫Soyorinu怎么样？爽世之助？爽世·危？",
+      "motion": "wink01"
+    },
+    {
+      "id": "338461ebadacb0ef0e33e372",
+      "role": "anon",
+      "source": "狸希～！这里有杏仁豆腐奶昔！这边是杏仁豆腐冰淇淋！还有杏仁豆腐汉堡哦！",
+      "motion": "smile03"
+    },
+    {
+      "id": "5bd9c97cd342ab75aa1fe299",
+      "role": "anon",
+      "source": "灯灯很喜欢天文馆呢～不过也是，在城市里很难看清星星呢。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "52ff86455fa60902c2145949",
+      "role": "anon",
+      "source": "话说回来……小乐奈给人的印象，不像是会去上学的感觉……？",
+      "motion": "thinking02"
+    },
+    {
+      "id": "062068456d7684cb900f952a",
+      "role": "anon",
+      "source": "呜呜……手指好痛～练习好辛苦……我可没说过我要放弃！",
+      "motion": "cry01"
+    },
+    {
+      "id": "6715dd40118862853c21e6fc",
+      "role": "anon",
+      "source": "哎呀～吓我一跳。没想到居然会搞错练习的日期呢～",
+      "motion": "surprised01"
+    },
+    {
+      "id": "57eb2886f2d1fa9ea2800fbd",
+      "role": "anon",
+      "source": "虽然有点在意卡路里……但只要通过乐队训练来消耗多摄入的卡路里，就没问题了！",
+      "motion": "smile04"
+    },
+    {
+      "id": "b280dd4aa073cbc8d05c6d51",
+      "role": "anon",
+      "source": "哎呀～初中的时候玩过乐队真是太好了～Thank you～当时的我！",
+      "motion": "smile01"
+    },
+    {
+      "id": "66e5e18405d38582cc7fdf30",
+      "role": "anon",
+      "source": "总感觉这附近有很多打扮得很成熟的人……",
+      "motion": "thinking03"
+    },
+    {
+      "id": "337070f2c25e4e527fac1121",
+      "role": "anon",
+      "source": "既然站在这里不会有不协调的感觉，就证明我也没输给她们吧！",
+      "motion": "smile02"
+    },
+    {
+      "id": "c7a90ce1846beba07ba7f0c9",
+      "role": "anon",
+      "source": "咦，有玩偶掉在地上了……用MyGO!!!!!的社交平台账号找到它的主人吧！",
+      "motion": "thinking01"
+    },
+    {
+      "id": "4d5e7084227ad45dbb745d86",
+      "role": "anon",
+      "source": "诶，这边的是新款连衣裙！？那边的是现在正在引发热议的甜点店的活动店铺！？",
+      "motion": "surprised01"
+    },
+    {
+      "id": "d332142d1f6d88e551f2a9c1",
+      "role": "anon",
+      "source": "连sumimi的CD都出新的了～！哎呀～赶潮流真是太累人了呢～",
+      "motion": "smile03"
+    },
+    {
+      "id": "91ec5a5c912fa24edea29395",
+      "role": "anon",
+      "source": "灯灯，那边有好多扭蛋哦～我在想，你是不是喜欢那种东西……要去看看吗？",
+      "motion": "smile04"
+    },
+    {
+      "id": "c437222c6ea3728f53785eed",
+      "role": "anon",
+      "source": "今天有努力练习，所以买了一份草莓豪华可丽饼～♪",
+      "motion": "smile01"
+    },
+    {
+      "id": "9a5b70ce81b616700fd294b9",
+      "role": "anon",
+      "source": "在这个车站附近，经常能看到月之森的学生……大家不应该都是由车子接送的吗？",
+      "motion": "thinking02"
+    },
+    {
+      "id": "104fe644bfa2d7e2367dd84d",
+      "role": "anon",
+      "source": "那个、那个，你觉得MyGO!!!!!的队长到底是谁啊？",
+      "motion": "thinking03"
+    },
+    {
+      "id": "0a583bd0a0cbe579e9be7ef0",
+      "role": "anon",
+      "source": "如果我没有邀请迷住大家的灯灯，或许现在就不会有MyGO!!!!!的诞生了哦？",
+      "motion": "smile02"
+    },
+    {
+      "id": "eae4484aceb6862ba8fd0695",
+      "role": "anon",
+      "source": "说到底，好的音频线是什么样的？看颜色？看光滑度？看挺括感？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "8bb6eba048f83c1923c44978",
+      "role": "anon",
+      "source": "啊，现在放的是sumimi的新歌。如果今后也会有人像这样播放我们的歌就好了呢。",
+      "motion": "smile03"
+    },
+    {
+      "id": "9466c286949cd255ce9b7f05",
+      "role": "anon",
+      "source": "能买到帅气的拨片真是太好了～♪等下拍照发到社交网站上吧！",
+      "motion": "smile04"
+    },
+    {
+      "id": "23c94223c9680ffe724cb331",
+      "role": "anon",
+      "source": "咦～？我应该把唇膏放在这里面了呀？",
+      "motion": "thinking02"
+    },
+    {
+      "id": "714e97d79d8a9489c48174e4",
+      "role": "anon",
+      "source": "爽世世今天不要老盯着我看～！今天的刘海怎么理都理不好！",
+      "motion": "angry01"
+    },
+    {
+      "id": "adbba626b8f7e353ebce14d8",
+      "role": "anon",
+      "source": "羽泽咖啡店……我记得是Afterglow的……原来是这样啊～狸希紧张的话，要不要我陪你？",
+      "motion": "smile01"
+    },
+    {
+      "id": "89574c547aad84b6e6a73a26",
+      "role": "anon",
+      "source": "呐呐，爽世世。不觉得我今天和平时不一样吗？昨天看了化妆教学视频……是哪里搞错了吗？",
+      "motion": "wink01"
+    },
+    {
+      "id": "92869241fdbfb7bb8fba36a0",
+      "role": "anon",
+      "source": "昨晚做了奇怪的梦，好像变成了CRYCHIC的吉他手……还被爽世世无视了！",
+      "motion": "sad02"
+    },
+    {
+      "id": "9972d0451494a38b9feecfdc",
+      "role": "anon",
+      "source": "最近似乎总是梦到在音乐教室里听祥子同学弹钢琴……是有什么寓意吗……？",
+      "motion": "thinking03"
+    },
+    {
+      "id": "8fe96f65e0cedf32c4f883cd",
+      "role": "anon",
+      "source": "抽中了2张Ave Mujica假面舞会入场券……真是奇迹！",
+      "motion": "surprised01"
+    },
+    {
+      "id": "450c25334f63af6fcee4e543",
+      "role": "rana",
+      "source": "有趣的女人。",
+      "motion": "smile01"
+    },
+    {
+      "id": "f0db955f9254b4c1ebbed1fe",
+      "role": "rana",
+      "source": "有趣的女孩子。",
+      "motion": "smile02"
+    },
+    {
+      "id": "b60e315430ba8d4553646ee5",
+      "role": "rana",
+      "source": "抹茶芭菲！",
+      "motion": "smile04"
+    },
+    {
+      "id": "406e5daf9c160d4ba10cffbd",
+      "role": "rana",
+      "source": "这是外婆的吉他。",
+      "motion": "serious01"
+    },
+    {
+      "id": "1ceff74fff1de320d84ea770",
+      "role": "rana",
+      "source": "不开始吗？乐队。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "f0e53c783a685e772fa556fc",
+      "role": "rana",
+      "source": "我是中学三年级学生。",
+      "motion": "smile01"
+    },
+    {
+      "id": "0ec862e3e2b0141366e21b82",
+      "role": "rana",
+      "source": "我在很多地方弹奏。弹临时想到的乐句。",
+      "motion": "kime01"
+    },
+    {
+      "id": "6048d95ccbea85741dc1b9c2",
+      "role": "rana",
+      "source": "在便利店买了荞麦面。",
+      "motion": "smile01"
+    },
+    {
+      "id": "162dd98bfc5154c80eb81e83",
+      "role": "rana",
+      "source": "外婆以前开Live House，SPACE。",
+      "motion": "serious02"
+    },
+    {
+      "id": "572f6d33bf0823719091d900",
+      "role": "rana",
+      "source": "外婆说归宿这东西，总会有人再创造出来",
+      "motion": "thinking01"
+    },
+    {
+      "id": "96ec4329a410ad134ad6e215",
+      "role": "rana",
+      "source": "这是什么？衣服，剪一下。",
+      "motion": "surprised01"
+    },
+    {
+      "id": "1b7c90d8adcdb4ca93f278db",
+      "role": "rana",
+      "source": "Live……还不开始吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "53dda594f6e3fa60955ae3b8",
+      "role": "rana",
+      "source": "糖。我吃了。",
+      "motion": "smile02"
+    },
+    {
+      "id": "dd23673e4b9ba31f2f7801f7",
+      "role": "rana",
+      "source": "我在找午睡的地方。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "b6794a7ca26c931be4a519d9",
+      "role": "rana",
+      "source": "这里没有猫……",
+      "motion": "sad01"
+    },
+    {
+      "id": "2ca6b9ef91359c95c4b3d283",
+      "role": "rana",
+      "source": "希望购物中心能有一家为猫服务的店。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "dbe562c5f64f9813da52d849",
+      "role": "rana",
+      "source": "加油吧。",
+      "motion": "kime01"
+    },
+    {
+      "id": "4720df6846bc05941febd175",
+      "role": "rana",
+      "source": "幸运套餐的赠品，是只猫咪。",
+      "motion": "smile04"
+    },
+    {
+      "id": "ee5e5d78c365caf935aa0605",
+      "role": "rana",
+      "source": "还很烫，但是它看起来很好吃。",
+      "motion": "smile01"
+    },
+    {
+      "id": "b4c7322f2d2fad444e267188",
+      "role": "rana",
+      "source": "洗衣机好有趣。衣服会轱辘轱辘地旋转。看着它转，感觉很有趣。",
+      "motion": "smile02"
+    },
+    {
+      "id": "324560fdc940945bbebb6e9d",
+      "role": "rana",
+      "source": "经常有人觉得我不像是会去上学。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "01255f2c095a27cf6ed0a015",
+      "role": "rana",
+      "source": "烹饪课程上要做三明治。可以夹自己喜欢的东西。要夹些什么好呢……荞麦面？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "93b19a82d078274e17d7215e",
+      "role": "rana",
+      "source": "忘记有英语作业了。明天就要交。狸希？一点也不帮吗？",
+      "motion": "sad01"
+    },
+    {
+      "id": "4eab9ff0ebdd8af04363c65e",
+      "role": "rana",
+      "source": "嗯、嗯，这个地方……日照、通风、气味……！完美。可以用来睡午觉。",
+      "motion": "smile04"
+    },
+    {
+      "id": "d354c0128f52fa09f5c5a992",
+      "role": "rana",
+      "source": "……有新消息…………「看」……「了」。发送。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "30a728fb12647c20b8007704",
+      "role": "rana",
+      "source": "…………抹茶冰淇淋？狸希请我吃吗？嗯。现在就来。",
+      "motion": "smile01"
+    },
+    {
+      "id": "cb791899866effe151308b38",
+      "role": "rana",
+      "source": "有好多吉他。每一把发出的声音都很好听。不过……外婆那把是最帅气的。",
+      "motion": "serious01"
+    },
+    {
+      "id": "44fee38bcd1988f8fbf4f7f4",
+      "role": "rana",
+      "source": "薯条……刚出锅脆脆的，看起来很好吃。不过，太烫了，吃不了。",
+      "motion": "smile02"
+    },
+    {
+      "id": "702e5015443059b1b2ff765a",
+      "role": "rana",
+      "source": "喷泉……里面没有鱼。",
+      "motion": "sad01"
+    },
+    {
+      "id": "6bb1d712e65ec3810d3a26f6",
+      "role": "rana",
+      "source": "手工社的人……送了很多吉祥物给我。所以我就挂在包上了。",
+      "motion": "smile04"
+    },
+    {
+      "id": "3e8a3c6849317535a9aa1a7f",
+      "role": "rana",
+      "source": "在抹茶饼皮上涂满抹茶奶油和抹茶冰淇淋还有抹茶巧克力。然后再放上很多抹茶酱。",
+      "motion": "smile01"
+    },
+    {
+      "id": "b10925b490bf1bdc3f17fa5c",
+      "role": "rana",
+      "source": "平时不坐电车。出门的时候走路。",
+      "motion": "smile01"
+    },
+    {
+      "id": "57119319f3c1953a48bc3b4e",
+      "role": "rana",
+      "source": "想睡觉？我知道好地方哦。那边的长椅、这边的树上、天台的顶部……还有很多别的地方。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "dac826863d6bb46a6777bda1",
+      "role": "rana",
+      "source": "才不是被手工社的人投喂……只是被抚摸了、玩了毛线球、还拿到了点心而已。",
+      "motion": "smile02"
+    },
+    {
+      "id": "adfec3ad58d1245c355aaf86",
+      "role": "rana",
+      "source": "店里的吉他我全都记得……啊，角落里的吉他，不见了。",
+      "motion": "sad01"
+    },
+    {
+      "id": "ebdc8fbe29660266ae9a20f5",
+      "role": "rana",
+      "source": "抹茶也很苦。",
+      "motion": "serious01"
+    },
+    {
+      "id": "45d230231e8c4e920e0862bc",
+      "role": "rana",
+      "source": "吉他的划痕，很帅气。",
+      "motion": "serious02"
+    },
+    {
+      "id": "05a10e9a8f102881db81c58c",
+      "role": "rana",
+      "source": "好闻的弦能弹出好的声音。",
+      "motion": "smile04"
+    },
+    {
+      "id": "4b28b1faf563c5d35317eea8",
+      "role": "rana",
+      "source": "肚子饿了。",
+      "motion": "sad01"
+    },
+    {
+      "id": "801bf060f0ba45f2357df884",
+      "role": "rana",
+      "source": "还想吃炸火腿排。",
+      "motion": "smile01"
+    },
+    {
+      "id": "e9b4a9c332f443ba571dec40",
+      "role": "rana",
+      "source": "猫咪说，给它猫粮的话就让摸。",
+      "motion": "smile02"
+    },
+    {
+      "id": "f9c2c9abc15a15cd7966b3a1",
+      "role": "rana",
+      "source": "我翘课出去溜达过，被骂得很惨",
+      "motion": "shame01"
+    },
+    {
+      "id": "73ab11a5f636b16f8e10eded",
+      "role": "rana",
+      "source": "爽世好好闻。感觉很好吃。",
+      "motion": "smile04"
+    },
+    {
+      "id": "10ab825619c7027d195668f7",
+      "role": "rana",
+      "source": "不喜欢吃韭菜、山药、洋葱……辣的、酸的、烫的……",
+      "motion": "serious01"
+    },
+    {
+      "id": "ae3ff86e5156331cb61a7e70",
+      "role": "rana",
+      "source": "我去散步。",
+      "motion": "smile01"
+    },
+    {
+      "id": "3c0f9a360182dc4ba9f10f2b",
+      "role": "rana",
+      "source": "好无聊。",
+      "motion": "sad01"
+    },
+    {
+      "id": "f1bf44d841e4108145d5fd0f",
+      "role": "rana",
+      "source": "想吃的时候就吃，这样会很幸福。",
+      "motion": "smile01"
+    },
+    {
+      "id": "8903a8f549252aee80cd4812",
+      "role": "rana",
+      "source": "不错的长椅。蜷缩着睡觉的时候，大小刚好合适。",
+      "motion": "smile02"
+    },
+    {
+      "id": "1fd0af2927b98b5ab2016d19",
+      "role": "rana",
+      "source": "哦哦～有抹茶饮料的活动。我要去。",
+      "motion": "smile04"
+    },
+    {
+      "id": "765f9f0a5b5450595a3cef02",
+      "role": "soyo",
+      "source": "暖暖的感觉，就像春天的阳光一样。珍贵的，特别的，无可替代的，我的归宿。",
+      "motion": "smile01"
+    },
+    {
+      "id": "1b5060fc5cfedde0df63a094",
+      "role": "soyo",
+      "source": "命运到底是什么呢？……有人能告诉我吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "7e00747f5147e5cdba133f7c",
+      "role": "soyo",
+      "source": "……仿佛看透了我的心思一般，坏心思的神明，为我带来了礼物。",
+      "motion": "surprised01"
+    },
+    {
+      "id": "bd84af2cb8d3917b3c6cf548",
+      "role": "soyo",
+      "source": "我想我一定一辈子都不会忘记，这就是对我而言的，命运的相遇。",
+      "motion": "kandou01"
+    },
+    {
+      "id": "76e55123611601e99e8c43e5",
+      "role": "soyo",
+      "source": "那天，小祥提出退出乐队的时候，我要是再多追问一下就好了。",
+      "motion": "sad01"
+    },
+    {
+      "id": "60e3a4828ffe151721c9b0a0",
+      "role": "soyo",
+      "source": "好像有点困。昨晚看书看到很晚呢。",
+      "motion": "smile01"
+    },
+    {
+      "id": "eece5a4ee129d023fffac41f",
+      "role": "soyo",
+      "source": "小灯，毕竟是个敏感的孩子呢……",
+      "motion": "serious01"
+    },
+    {
+      "id": "0698606cd64315cc5e74c442",
+      "role": "soyo",
+      "source": "请不要在这里玩饮料机～",
+      "motion": "angry01"
+    },
+    {
+      "id": "5e67884ff4c6d77e30ae2477",
+      "role": "soyo",
+      "source": "这样下去的话，会重蹈覆辙吗？",
+      "motion": "thinking02"
+    },
+    {
+      "id": "c407d671951702f99b68f82d",
+      "role": "soyo",
+      "source": "为什么重要的话，总是说不出口呢？CRYCHIC的大家就因此错过彼此。",
+      "motion": "sad02"
+    },
+    {
+      "id": "0ad7b62b851e0553b449d7fc",
+      "role": "soyo",
+      "source": "今天应该不是小睦练钢琴的日子吧……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "ace6a2a8e390426eac78f16c",
+      "role": "soyo",
+      "source": "为什么要演奏《春日影》？不是说好了不弹吗？",
+      "motion": "angry02"
+    },
+    {
+      "id": "e99a6731a5900bfa0065f14e",
+      "role": "soyo",
+      "source": "小祥说，乐队就是命运共同体……",
+      "motion": "serious02"
+    },
+    {
+      "id": "767ca7d4752b5709c3da7d66",
+      "role": "soyo",
+      "source": "我真的很重视大家，很喜欢大家……",
+      "motion": "smile02"
+    },
+    {
+      "id": "13dc8f41a9935046839430e5",
+      "role": "soyo",
+      "source": "没有这回事啦～",
+      "motion": "smile03"
+    },
+    {
+      "id": "4cd4ef9292839632be94cc93",
+      "role": "soyo",
+      "source": "小爱音明明一开始只是想出风头而已……",
+      "motion": "serious03"
+    },
+    {
+      "id": "968ec9d6c993ed4073eed277",
+      "role": "soyo",
+      "source": "小爱音又偷偷跟着我了啊……唉……进来吧。",
+      "motion": "shame01"
+    },
+    {
+      "id": "8fe23467879e82e326a22931",
+      "role": "soyo",
+      "source": "要不要和吹奏部的同学一起去乐器店呢……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "8a2bdbbddaef3d58735e3ef8",
+      "role": "soyo",
+      "source": "小爱音练了很多吉他吧？没来的时候也一直在练吧？",
+      "motion": "smile04"
+    },
+    {
+      "id": "ef6ad0cde5286bd9caf6f976",
+      "role": "soyo",
+      "source": "反正我不弹《春日影》。",
+      "motion": "serious04"
+    },
+    {
+      "id": "eca33544a1aad22db7fb591d",
+      "role": "soyo",
+      "source": "我们真是被小灯弄得团团转啊～",
+      "motion": "smile04"
+    },
+    {
+      "id": "f96d3ce6665f53628042866c",
+      "role": "soyo",
+      "source": "小爱音真没品味。",
+      "motion": "angry03"
+    },
+    {
+      "id": "94d0252e97dcc825501aa8ff",
+      "role": "soyo",
+      "source": "「爽世世」听起来有点讨厌呀～",
+      "motion": "shame02"
+    },
+    {
+      "id": "30f3caa203d4fb8cc0cf555d",
+      "role": "soyo",
+      "source": "我是不熬夜主义者。",
+      "motion": "serious01"
+    },
+    {
+      "id": "20756ae24a327ab1029eccd8",
+      "role": "soyo",
+      "source": "我的衣服……被剪开了！",
+      "motion": "surprised01"
+    },
+    {
+      "id": "392ea42cbfdbe720d6c9212b",
+      "role": "soyo",
+      "source": "小爱音就是喜欢这些小细节啊……",
+      "motion": "smile01"
+    },
+    {
+      "id": "7a73ddcf6734f12be18a7911",
+      "role": "soyo",
+      "source": "这个黄瓜，不需要了。",
+      "motion": "serious02"
+    },
+    {
+      "id": "ab395123a49a052ab67b16eb",
+      "role": "soyo",
+      "source": "大家可要注意身体健康啊～",
+      "motion": "smile02"
+    },
+    {
+      "id": "3ad8c4756d5907af45e7562b",
+      "role": "soyo",
+      "source": "我想，小灯的歌词其实也是我的呐喊。",
+      "motion": "kandou01"
+    },
+    {
+      "id": "0512ea22fbd165b27dc2fc64",
+      "role": "soyo",
+      "source": "我大概一辈子也忘不掉CRYCHIC吧。",
+      "motion": "sad03"
+    },
+    {
+      "id": "2a4e64422a01d6355ab23f97",
+      "role": "soyo",
+      "source": "小乐奈在用爪子洗脸……今天没带伞，早点回去吧……",
+      "motion": "smile03"
+    },
+    {
+      "id": "b34b5768a359d4a52302be3c",
+      "role": "soyo",
+      "source": "无论是贝斯手还是吉他手都要好好保养自己的手哦……",
+      "motion": "serious03"
+    },
+    {
+      "id": "611bda2358372ab3ef97f7f5",
+      "role": "soyo",
+      "source": "含有8种蔬菜的果汁……太难喝了，我已经不想喝了。",
+      "motion": "sad01"
+    },
+    {
+      "id": "f2fea6040ee02e59f734db33",
+      "role": "soyo",
+      "source": "因为某人曾经说过「要一辈子组乐队」这种饱含分量的话，所以我想要保持健康。",
+      "motion": "serious04"
+    },
+    {
+      "id": "6433c51e0969d237881ffba8",
+      "role": "soyo",
+      "source": "参加派对比小爱音想象中要辛苦得多哦？穿礼裙行动很困难，还要注意礼仪……",
+      "motion": "thinking02"
+    },
+    {
+      "id": "2d53a7f1eb7afc0d4e85cd9d",
+      "role": "soyo",
+      "source": "小乐奈，我已经说过很多次了，希望你能准时来练习。我不想对小乐奈发火。",
+      "motion": "angry01"
+    },
+    {
+      "id": "f44c1f383193e297a0bb7159",
+      "role": "soyo",
+      "source": "月之森的大家打工似乎都不是出于生计需求，而是为了了解社会呢……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "ea19203c955a2801ca3f36bf",
+      "role": "soyo",
+      "source": "小爱音买这么多润喉糖，是感冒了吗？",
+      "motion": "smile04"
+    },
+    {
+      "id": "4b60f3e58b3ac60f6392d28b",
+      "role": "soyo",
+      "source": "小立希从刚才开始就一直心神不宁的？……哦。是Afterglow的美竹同学……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "9ecfee9171af168bf7d02763",
+      "role": "soyo",
+      "source": "「爽世世」这个外号，小爱音真的要一直叫下去吗？",
+      "motion": "shame01"
+    },
+    {
+      "id": "49a2576634e1f64914171309",
+      "role": "soyo",
+      "source": "……既然不能吃烫的，小乐奈可以选其他店啊……",
+      "motion": "serious01"
+    },
+    {
+      "id": "197e9659f63c0f2a4609d413",
+      "role": "soyo",
+      "source": "小乐奈不来的话，我们去小乐奈所在的地方练习怎么样？",
+      "motion": "thinking02"
+    },
+    {
+      "id": "b189e0b6d72726eaf0e71258",
+      "role": "soyo",
+      "source": "小灯，给你磅蛋糕。我今天在学校的课堂上做的。",
+      "motion": "smile04"
+    },
+    {
+      "id": "5946f5b5f98e4a84f1c38900",
+      "role": "soyo",
+      "source": "明明还在看菜单，结果当客人进来时，小立希居然和店员一起说出了「欢迎光临～」……",
+      "motion": "surprised01"
+    },
+    {
+      "id": "50c922946902e634ff19509a",
+      "role": "soyo",
+      "source": "……咦，是小爱音发来的消息。有三人已读，但没有回话。小爱音在疯狂发表情包……",
+      "motion": "smile01"
+    },
+    {
+      "id": "345128f789cfb8af8ff21d2f",
+      "role": "soyo",
+      "source": "贴了好多招募乐队成员的单子呢，看来招吉他主唱还是很少啊。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "3604e21d54e59ced88777a72",
+      "role": "soyo",
+      "source": "有几个比较稀奇的招募乐队成员的单子……DJ、管弦乐手还有……舞者？",
+      "motion": "thinking02"
+    },
+    {
+      "id": "fd4698c29aa1797389a2ac62",
+      "role": "soyo",
+      "source": "偶尔什么也不做，悠闲地度过也不错吧？",
+      "motion": "smile02"
+    },
+    {
+      "id": "b70fcaf141c63be96bfd852f",
+      "role": "soyo",
+      "source": "小爱音，今天也用MyGO!!!!!的账号投稿了。回忆正在不断增加，还是挺开心的呢。",
+      "motion": "smile03"
+    },
+    {
+      "id": "d19e89d614c875ade9f068d6",
+      "role": "soyo",
+      "source": "啊。那边有长椅，小灯要去那边休息一下吗？",
+      "motion": "smile04"
+    },
+    {
+      "id": "7082abe9d3010fade42cdf61",
+      "role": "soyo",
+      "source": "我想小爱音可能不知道，一般月之森的家庭都是有专门的司机接送哦。",
+      "motion": "serious01"
+    },
+    {
+      "id": "3aabd0219b264537c66efe77",
+      "role": "soyo",
+      "source": "小乐奈，你头发睡得乱七八糟的哦。缎带也快散开了，校服上还粘着小树枝和叶子。",
+      "motion": "smile04"
+    },
+    {
+      "id": "7576e1fe29e59144f9fd360f",
+      "role": "soyo",
+      "source": "小立希，喜欢熊猫对吧？",
+      "motion": "smile01"
+    },
+    {
+      "id": "0b8be7f68cf012f27f5004e5",
+      "role": "soyo",
+      "source": "啊，是刚出锅的可乐饼。要不要买一些呢？",
+      "motion": "smile02"
+    },
+    {
+      "id": "595231354e61e0b117894082",
+      "role": "soyo",
+      "source": "路过的老奶奶看着我问了句「你是大学生吧」。我就不禁笑了起来。",
+      "motion": "smile03"
+    },
+    {
+      "id": "54a84c7f2ddcb884bd73cba5",
+      "role": "soyo",
+      "source": "要不要去那边的咖啡厅里买点喝的？毕竟接下来还要练习，给大家带点慰劳品吧。",
+      "motion": "smile04"
+    },
+    {
+      "id": "1bf33c67701b012f50c6731c",
+      "role": "soyo",
+      "source": "小祥竟然就是Oblivionis……开玩笑吧……？",
+      "motion": "surprised01"
+    },
+    {
+      "id": "bfed2a7e08a421828f940a34",
+      "role": "taki",
+      "source": "哈？",
+      "motion": "angry03"
+    },
+    {
+      "id": "8c781546616afba7ca714282",
+      "role": "taki",
+      "source": "灯的歌，让人感动……唱得太棒了！",
+      "motion": "kandou01"
+    },
+    {
+      "id": "f4f0d56fa08efaeb42cf0247",
+      "role": "taki",
+      "source": "说灯太拼命的家伙什么也不懂，我要拉黑他！",
+      "motion": "angry01"
+    },
+    {
+      "id": "314b939e637e05e98f75fee7",
+      "role": "taki",
+      "source": "我发过誓，我愿意和灯在一起一辈子。",
+      "motion": "serious01"
+    },
+    {
+      "id": "0d343b11ebe0895226991274",
+      "role": "taki",
+      "source": "我要是高中直升上羽丘，就能和灯一起上学了吧……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "99c3accbc3aa933747071176",
+      "role": "taki",
+      "source": "不对。野猫的芭菲还没付钱！",
+      "motion": "angry02"
+    },
+    {
+      "id": "6410b72847016dc5ac26cd30",
+      "role": "taki",
+      "source": "我当初听到灯的歌声时，觉得那唱的就是我……",
+      "motion": "kandou01"
+    },
+    {
+      "id": "6dbb67f7eb63d8ca73c6b382",
+      "role": "taki",
+      "source": "无法用语言描述的心情，都被灯转化成了歌声……",
+      "motion": "smile01"
+    },
+    {
+      "id": "9531f83ca0432331d6c6534f",
+      "role": "taki",
+      "source": "灯的歌声要让人们都听到才有意义。",
+      "motion": "serious02"
+    },
+    {
+      "id": "a48ca6c3858dad9061992723",
+      "role": "taki",
+      "source": "节奏不能再放慢一点了，要的就是那种冲刺感。",
+      "motion": "kime01"
+    },
+    {
+      "id": "7067d942ac7d0f9a0a2d73cc",
+      "role": "taki",
+      "source": "爱音和灯又迟到了……爱音能不能提前说一声？",
+      "motion": "angry03"
+    },
+    {
+      "id": "5b230f242b7409bae0812deb",
+      "role": "taki",
+      "source": "如果再修改乐谱，就不是新手能弹的了……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "e9aa7b1c9415f9322034da0c",
+      "role": "taki",
+      "source": "灯当然可爱了！",
+      "motion": "smile02"
+    },
+    {
+      "id": "b45d589443e4cf179339946f",
+      "role": "taki",
+      "source": "今天有Afterglow的Live……太期待了！",
+      "motion": "smile03"
+    },
+    {
+      "id": "7c91ebf03e9605d415b2c226",
+      "role": "taki",
+      "source": "你和Afterglow的前辈说话了？都说了什么？",
+      "motion": "surprised02"
+    },
+    {
+      "id": "267254e9fc956c1d30c1fde1",
+      "role": "taki",
+      "source": "灯只要站上Live舞台对我就足够了……",
+      "motion": "smile04"
+    },
+    {
+      "id": "0b7e255b66b0a44a9301d61c",
+      "role": "taki",
+      "source": "那家伙……竟敢无视灯！",
+      "motion": "angry04"
+    },
+    {
+      "id": "ce606837fce0c766cac1a478",
+      "role": "taki",
+      "source": "海铃和三角同学关系有这么好吗……？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "4a457748cdcb20d1646c2e2e",
+      "role": "taki",
+      "source": "最近上课的时候……好像总是感觉……有人在盯着我……？",
+      "motion": "sad01"
+    },
+    {
+      "id": "8940d9654404893f03fa9ddc",
+      "role": "taki",
+      "source": "海铃真的很忙吗？为什么我找她的时候这么快就能到……？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "f485cb2d08ca1182f2bf9419",
+      "role": "taki",
+      "source": "爱音起名的品味，确实挺让人来气的。",
+      "motion": "angry01"
+    },
+    {
+      "id": "e6f4192196a0b5b5ea0e3ce5",
+      "role": "taki",
+      "source": "那我呢？",
+      "motion": "sad02"
+    },
+    {
+      "id": "ffa2565cf903823ef2765367",
+      "role": "taki",
+      "source": "灯！带着安全蜂鸣器！套上反光背带！就算有陌生人叫你也不能跟着走……",
+      "motion": "serious01"
+    },
+    {
+      "id": "1926583c79cbaaffeeb15ddc",
+      "role": "taki",
+      "source": "爱音，不要说这种任性的话让灯伤脑筋……",
+      "motion": "angry02"
+    },
+    {
+      "id": "19ce9400411a9c1ce30ad916",
+      "role": "taki",
+      "source": "那只野猫！只会在心血来潮的时候参加练习！给她发消息甚至连看也不看！",
+      "motion": "angry03"
+    },
+    {
+      "id": "844528fa17a68c319f51005d",
+      "role": "taki",
+      "source": "野猫说她曾经在这棵树上睡过觉……再找找这个她可能会喜欢的箱子里面……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "c8c8dc2761298cbe6154f47c",
+      "role": "taki",
+      "source": "感觉爱音只喜欢做轻松且受人关注的工作。有打工的时间的话，不如练一下吉他吧？",
+      "motion": "serious02"
+    },
+    {
+      "id": "ad95b574b27323e8703710e6",
+      "role": "taki",
+      "source": "打工的那个学姐，该说是闹腾呢，还是有点冒冒失失呢……总之就是那种感觉……",
+      "motion": "sigh01"
+    },
+    {
+      "id": "115927eb06554a882f30871a",
+      "role": "taki",
+      "source": "野猫！我的名字不是抹茶芭菲，也不是狸希！",
+      "motion": "angry04"
+    },
+    {
+      "id": "15f502dd1be0ed2382a354f3",
+      "role": "taki",
+      "source": "月之森竟然不禁止打工，明明是大小姐读的学校，有点意外呢……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "5c1c40d520c1853e5d6e712f",
+      "role": "taki",
+      "source": "灯，你有什么想看的东西吗？我？我等下再看就好啦。",
+      "motion": "smile01"
+    },
+    {
+      "id": "05bfabe3ced663b3307442f2",
+      "role": "taki",
+      "source": "灯在路上见到了一只果子狸，追着追着就迷路了……总之去接她吧。",
+      "motion": "sigh02"
+    },
+    {
+      "id": "4a4efcccc3a5939b642fd29a",
+      "role": "taki",
+      "source": "终、终于找到你了……野猫！不要擅自东逛逛西逛逛。",
+      "motion": "angry01"
+    },
+    {
+      "id": "ee4a36d20eb4f58eec756897",
+      "role": "taki",
+      "source": "突然上前搭话……会给Afterglow的前辈带来困扰的吧……",
+      "motion": "shame01"
+    },
+    {
+      "id": "32987769bc02d52f0e0f5724",
+      "role": "taki",
+      "source": "如果这里推出了野猫感兴趣的新品，或许她就不会突然跑不见了……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "75f3b4b2062b7ca37c1d931c",
+      "role": "taki",
+      "source": "有没有好好利用时间的诀窍呢？我很想知道，学姐是怎么兼顾兼职和乐队活动的？",
+      "motion": "serious01"
+    },
+    {
+      "id": "29beb49b8e9fa367fe9638bd",
+      "role": "taki",
+      "source": "抱歉，灯，我来晚了！兼职那边突然忙得不得了……",
+      "motion": "sad03"
+    },
+    {
+      "id": "d69c413df98af3378073979c",
+      "role": "taki",
+      "source": "哈啊？马上就要开始练习了，已经没时间了。怎么可能会答应你啊！",
+      "motion": "angry02"
+    },
+    {
+      "id": "9ebb9bf194633b6713038e31",
+      "role": "taki",
+      "source": "不要总是长时间地拽着灯到处乱跑！要是害灯第二天还很疲倦，爽世想怎么补偿啊？",
+      "motion": "angry03"
+    },
+    {
+      "id": "59bfb9604b485eebff6910dc",
+      "role": "taki",
+      "source": "唉……到底该怎么做，才能让野猫按照日程安排行动呢……？",
+      "motion": "sigh01"
+    },
+    {
+      "id": "ed8dfd20f611217ac8a1f521",
+      "role": "taki",
+      "source": "昨天做了个很累人的梦……我梦到乐奈爬上了树，然后不下来了。",
+      "motion": "sad01"
+    },
+    {
+      "id": "c6d92a8cbf14fd13acbf8300",
+      "role": "taki",
+      "source": "野猫……跑哪去了……？既不在自己的教室里，也不在手工社，连中庭也……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "d8e30f3ea78f75fdfff2a3a2",
+      "role": "taki",
+      "source": "我经常看到灯收集石头和叶子……不知道她会不会收集花呢……？",
+      "motion": "smile02"
+    },
+    {
+      "id": "2395c594b91224b9a378be18",
+      "role": "taki",
+      "source": "《月刊ZOO》……熊猫特辑……！？好、好想要……！啊，等等，这个月的零花钱已经……",
+      "motion": "surprised01"
+    },
+    {
+      "id": "b834a813a48cbcfa673b2687",
+      "role": "taki",
+      "source": "……！？爽世为什么会知道我喜欢熊猫……？我明明没对任何人说过……",
+      "motion": "surprised02"
+    },
+    {
+      "id": "b1b1147e08ecd8ba95b7194f",
+      "role": "taki",
+      "source": "大概是自从CRYCHIC不再一起练习时就开始学DTM了。我想着今后或许会用到。",
+      "motion": "serious02"
+    },
+    {
+      "id": "7164ae6eec839e1135cd202c",
+      "role": "taki",
+      "source": "我们已经决定了要一起前进。",
+      "motion": "kime01"
+    },
+    {
+      "id": "c728291f3d6b494dfbc3cd9a",
+      "role": "taki",
+      "source": "……就算我们都成为了大学生，我也希望能作为MyGO!!!!!继续活动呢。",
+      "motion": "smile03"
+    },
+    {
+      "id": "546da14e5e8a5c6bf03aeec7",
+      "role": "taki",
+      "source": "……我前段时间才知道，灯好像并没有那么喜欢摩卡咖啡。",
+      "motion": "sad02"
+    },
+    {
+      "id": "ca6d3b008b6b695517081f23",
+      "role": "taki",
+      "source": "爱音的进步很大啊……私下里练习很拼命吧？",
+      "motion": "smile04"
+    },
+    {
+      "id": "7aa729a4e756c5464d00c0d0",
+      "role": "taki",
+      "source": "「这就是花女三剑客」……？这个姿势太蠢了吧？海铃，你在搞什么？",
+      "motion": "angry04"
+    },
+    {
+      "id": "25a45d36e39416c01da719ea",
+      "role": "taki",
+      "source": "Ave Mujica这么喜欢搞舞台剧……这真的还算乐队吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "acfd026638d96c15bff569aa",
+      "role": "tomori",
+      "source": "诶？控制台？看起来好像很厉害的样子……",
+      "motion": "surprised01"
+    },
+    {
+      "id": "1619a4e85f6d3327b5d8cfea",
+      "role": "tomori",
+      "source": "感觉能通过控制台看到大家的内心……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "59a1c7ee328859a74997d980",
+      "role": "anon",
+      "source": "哼哼，你打开了控制台，是想要看看什么小秘密吗？",
+      "motion": "smile01"
+    },
+    {
+      "id": "1bec039265688cc499e00087",
+      "role": "anon",
+      "source": "说起来，你能通过控制台告诉我为什么我会出现在这里吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "30764d70b38a39280994f6a0",
+      "role": "rana",
+      "source": "有黑客！有黑客！",
+      "motion": "surprised02"
+    },
+    {
+      "id": "f6fed81ad3b14ecebb7f75da",
+      "role": "rana",
+      "source": "控制台……是用来做什么的？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "a5776da111be2ba5de9a819c",
+      "role": "rana",
+      "source": "控制台……可以召唤抹茶芭菲吗？",
+      "motion": "smile02"
+    },
+    {
+      "id": "8f380017482984ecf3406156",
+      "role": "soyo",
+      "source": "打开控制台的话，就可能会看到一些不该看的东西了呢。",
+      "motion": "serious01"
+    },
+    {
+      "id": "1dcfcbd60a3f1c14ef6212a7",
+      "role": "soyo",
+      "source": "看到网页就想打开控制台，感觉和小爱音一样很没有品味呢……",
+      "motion": "sigh01"
+    },
+    {
+      "id": "eb076da9ee445c2c9ead9ca2",
+      "role": "taki",
+      "source": "打开控制台，是要做什么吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "07c2107f25a42bf036eae4c8",
+      "role": "taki",
+      "source": "竟然打开了控制台……？你想要干什么？",
+      "motion": "serious02"
+    },
+    {
+      "id": "02a8aa7ea9edbc057c0989b9",
+      "role": "tomori",
+      "source": "别人的内心的呐喊，终究不是自己的。如果转载的话，还是加上出处比较好。",
+      "motion": "serious01"
+    },
+    {
+      "id": "b0fdb01536d66471c15db6e7",
+      "role": "tomori",
+      "source": "虽然我很想向更多人传达我内心的呐喊，但是如果转载不标明出处的话，可能还是很困扰……",
+      "motion": "sad01"
+    },
+    {
+      "id": "b65971f87ff2f77a45e5c547",
+      "role": "anon",
+      "source": "要复制的话，记得遵守CC BY-SA 4.0协议哦！",
+      "motion": "smile01"
+    },
+    {
+      "id": "68749af818d63eefa261ef14",
+      "role": "anon",
+      "source": "复制别人的东西，要记得加上出处哦！",
+      "motion": "serious02"
+    },
+    {
+      "id": "e65b9d692bc794f1d1329731",
+      "role": "rana",
+      "source": "外婆说，遵守CC BY-SA 4.0协议是好孩子应该做的事情。",
+      "motion": "smile02"
+    },
+    {
+      "id": "ae56825d220c457632d3b08b",
+      "role": "rana",
+      "source": "CC BY-SA 4.0协议，是不是很重要呢？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "78a750a71cf117ba33fcc2a1",
+      "role": "soyo",
+      "source": "要转载的话，记得加上出处哦！不然作者会很伤心的。",
+      "motion": "serious01"
+    },
+    {
+      "id": "40b835b1e3f7441e7867fc2e",
+      "role": "soyo",
+      "source": "我们曾经就因为不尊重小祥的版权，把小祥惹哭了。希望不要重蹈覆辙哦～",
+      "motion": "sad02"
+    },
+    {
+      "id": "3b2cc3b34ecdb7f62c03db22",
+      "role": "taki",
+      "source": "说起来，我写的歌曲都是原创的。复制来的旋律，配不上灯的歌词。",
+      "motion": "serious02"
+    },
+    {
+      "id": "2176076da079a30ba8e39825",
+      "role": "taki",
+      "source": "如果有抄袭我们歌词和旋律的人，一定什么都不懂。我一定会拉黑他。",
+      "motion": "angry01"
+    },
+    {
+      "id": "1dae2eb3fec829431a8bcc8c",
+      "role": "tomori",
+      "source": "欢迎回来。一起在迷茫中前进吧！",
+      "motion": "smile03"
+    },
+    {
+      "id": "f5dfb936dc6f078e8531bb69",
+      "role": "tomori",
+      "source": "欢迎回来。相遇的一个个瞬间加起来，就是一辈子。",
+      "motion": "kandou01"
+    },
+    {
+      "id": "5d48574255ea3473166ad7f0",
+      "role": "anon",
+      "source": "欢迎回来！今后也要一直支持我们哦！",
+      "motion": "wink01"
+    },
+    {
+      "id": "ef6b0e062a3fbf7d0968eeae",
+      "role": "anon",
+      "source": "欢迎回来！我是不是也快成为大明星了呀？",
+      "motion": "smile04"
+    },
+    {
+      "id": "94ad8f7c7a6b586218160f78",
+      "role": "rana",
+      "source": "回来了？抹茶芭菲！",
+      "motion": "smile02"
+    },
+    {
+      "id": "8a19c6508112ab87007c9c6d",
+      "role": "rana",
+      "source": "回来的路上，有没有去便利店买荞麦面……？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "50c6a3957b56bc10f258678e",
+      "role": "soyo",
+      "source": "欢迎回来！一个人果然还是有些寂寞呢……",
+      "motion": "sad01"
+    },
+    {
+      "id": "ed7cb5cfe572a5bb10097d63",
+      "role": "soyo",
+      "source": "欢迎回来！我也在这里等着你哦！",
+      "motion": "smile03"
+    },
+    {
+      "id": "66e4756a076a1c22823e8653",
+      "role": "taki",
+      "source": "欢迎光临。请问您今天要来点什么？",
+      "motion": "smile04"
+    },
+    {
+      "id": "e01e72cb29128bd0fcedf880",
+      "role": "taki",
+      "source": "欢迎光临。要看看推荐菜单吗？",
+      "motion": "smile01"
+    },
+    {
+      "id": "8108dc24050dbbcf84f4680a",
+      "role": "tomori",
+      "source": "这枚5日元硬币闪闪发光的……还是用别的硬币投进赛钱箱吧……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "0a0fdf66a1a06a4fa8cae5e2",
+      "role": "tomori",
+      "source": "新年短信……小爱给大家发了。",
+      "motion": "smile01"
+    },
+    {
+      "id": "49699834c175d713866200ce",
+      "role": "anon",
+      "source": "抽签抽中了大吉！感觉这一年会是个好年吧～",
+      "motion": "smile02"
+    },
+    {
+      "id": "018d9cc5b60abab0d379c51c",
+      "role": "anon",
+      "source": "难得来了，大家一起穿和服参拜吧？！",
+      "motion": "smile03"
+    },
+    {
+      "id": "6a3917317e23ff66e21a185e",
+      "role": "rana",
+      "source": "新年快乐。快点来办Live吧。",
+      "motion": "kime01"
+    },
+    {
+      "id": "4f3106158ac96f42eb44e8b7",
+      "role": "rana",
+      "source": "外婆给了我压岁钱。",
+      "motion": "smile04"
+    },
+    {
+      "id": "d6474abedc94cd5d70af79d2",
+      "role": "soyo",
+      "source": "新年快乐。外面真冷啊，真不想出去呢。",
+      "motion": "sad01"
+    },
+    {
+      "id": "c52476dbdef5aeabee7267ab",
+      "role": "soyo",
+      "source": "这么冷的天气，大家一起去参拜，小爱音真有精神呢。",
+      "motion": "smile04"
+    },
+    {
+      "id": "7aa2984a55310f12052ba2e2",
+      "role": "taki",
+      "source": "新年快乐。新年参拜……我比较喜欢人多的时候去。",
+      "motion": "smile01"
+    },
+    {
+      "id": "7375779eb95715a43d70f95c",
+      "role": "taki",
+      "source": "为了实现一辈子，要好好确立新年的目标。",
+      "motion": "serious01"
+    },
+    {
+      "id": "68242af57a15821f61eaf9c7",
+      "role": "tomori",
+      "source": "节分的豆子，一个一个，形状都不一样……要是能收集起来就好了。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "6b326f37c6ca876097e7a35e",
+      "role": "anon",
+      "source": "要我来当节分的扮鬼角色啊……我知道了，稍微考虑一下～",
+      "motion": "smile02"
+    },
+    {
+      "id": "163712dce7b20db711ab65e1",
+      "role": "rana",
+      "source": "不可以吃掉到地上的豆子。",
+      "motion": "serious01"
+    },
+    {
+      "id": "bcc3decca91ca82d28f82320",
+      "role": "soyo",
+      "source": "撒豆驱邪……可以算是祈愿健康，也可以试一试。",
+      "motion": "thinking02"
+    },
+    {
+      "id": "6b499a054420e5f577199c58",
+      "role": "taki",
+      "source": "爱音给了我鬼的面具。我怎么可能会戴？",
+      "motion": "angry01"
+    },
+    {
+      "id": "c8e65b374208d94d6a2d4c02",
+      "role": "tomori",
+      "source": "巧克力也有各种各样的外形……收集起来很有趣的样子。",
+      "motion": "smile01"
+    },
+    {
+      "id": "048f9957ae26aefc6465006b",
+      "role": "anon",
+      "source": "呜……因为是送人，想要送品牌巧克力，但是价格～",
+      "motion": "sad01"
+    },
+    {
+      "id": "f9d7731e925fc94abe1ddb95",
+      "role": "rana",
+      "source": "收到了抹茶味的巧克力。今天真是个好日子。",
+      "motion": "smile02"
+    },
+    {
+      "id": "08af4e0695d37498743cc889",
+      "role": "soyo",
+      "source": "做点热巧克力之类的吧。还可以暖身子。",
+      "motion": "smile03"
+    },
+    {
+      "id": "63e33d3f38d16eeccc3da6e9",
+      "role": "taki",
+      "source": "是送甜的……还是送苦的……灯喜欢哪种巧克力……？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "8653721c3ae8a768ff7c9934",
+      "role": "tomori",
+      "source": "小乐奈，生日快乐。要组一辈子乐队哦。",
+      "motion": "smile01"
+    },
+    {
+      "id": "b7029a028db555ee12cc3992",
+      "role": "anon",
+      "source": "小乐奈，生日快乐！我来请你吃抹茶芭菲！",
+      "motion": "smile02"
+    },
+    {
+      "id": "da7b02b603c07dc94216a628",
+      "role": "rana",
+      "source": "庆祝生日？抹茶蛋糕。",
+      "motion": "smile03"
+    },
+    {
+      "id": "9752e1f279a343dfb2e1933c",
+      "role": "soyo",
+      "source": "小乐奈的生日。说是蛋糕要抹茶味的好。",
+      "motion": "smile04"
+    },
+    {
+      "id": "de3a77ccd64015d8a3cbff49",
+      "role": "taki",
+      "source": "乐奈的生日啊。要是被那家伙找到了就该跟我要抹茶蛋糕了。",
+      "motion": "angry01"
+    },
+    {
+      "id": "399e66d75e4a2e0a3f31de7b",
+      "role": "tomori",
+      "source": "雏霰圆圆的，我从小就很喜欢。",
+      "motion": "smile01"
+    },
+    {
+      "id": "84516ae2572a8a28cfca23a2",
+      "role": "anon",
+      "source": "在雏坛上开Live如何？如果可以的话我真想站在最高处啊～",
+      "motion": "smile02"
+    },
+    {
+      "id": "34558fc27c9e3bf25ac2f586",
+      "role": "rana",
+      "source": "绿色的雏霰是抹茶味的吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "96c77c29f01b896e82cf2d93",
+      "role": "soyo",
+      "source": "每年的这个时候，妈妈都会干劲满满地装饰娃娃呢。",
+      "motion": "smile03"
+    },
+    {
+      "id": "9a2c5675dee6285addef15ed",
+      "role": "taki",
+      "source": "五童子里面竟然有三个人负责打击乐……是不是有点失衡了？",
+      "motion": "thinking02"
+    },
+    {
+      "id": "9d53aad1866064b9b107b063",
+      "role": "tomori",
+      "source": "回礼……送什么好呢？如果是漂亮的石头，会开心吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "6711fa08b4430d6d29102167",
+      "role": "anon",
+      "source": "因为要给很多人送回礼，所以还是不要太张扬了……",
+      "motion": "sad01"
+    },
+    {
+      "id": "ebaf2512b992df9aca445977",
+      "role": "rana",
+      "source": "狸希给了灯马卡龙……我的那一份呢？",
+      "motion": "angry01"
+    },
+    {
+      "id": "702e92671ad4246155368af4",
+      "role": "soyo",
+      "source": "这是给班上大家的……这是给社团同学的……然后是……",
+      "motion": "thinking02"
+    },
+    {
+      "id": "6d37affe1940adcedb9091bf",
+      "role": "taki",
+      "source": "爽世和爱音都准备了大量的回礼。和朋友相处真是辛苦啊……",
+      "motion": "sigh01"
+    },
+    {
+      "id": "f395f273335b4f47a8fd3742",
+      "role": "tomori",
+      "source": "我能够记得每一块石头是从哪里捡的……其实是真的哦……？",
+      "motion": "smile01"
+    },
+    {
+      "id": "053e9149a3824c8acad1b4fb",
+      "role": "anon",
+      "source": "「ANON TOKYO」进军巴黎！要是真能做到就好了啊……",
+      "motion": "smile02"
+    },
+    {
+      "id": "12575ea852782c0c294ecdad",
+      "role": "rana",
+      "source": "要撒谎吗？那我今天就不弹吉他了。",
+      "motion": "serious01"
+    },
+    {
+      "id": "28beb63372dd533d6e79925a",
+      "role": "soyo",
+      "source": "我不喜欢撒谎来找乐子的人……其实是开玩笑哦？",
+      "motion": "smile03"
+    },
+    {
+      "id": "fca2695d99c74e59e880054c",
+      "role": "taki",
+      "source": "说实话，我在想，大家都在撒谎的话，还有什么意义呢？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "aee0bcbbe7ce054bdd5a8139",
+      "role": "tomori",
+      "source": "生日快乐。能够和小爽世组乐队，我真的很开心。",
+      "motion": "smile01"
+    },
+    {
+      "id": "e4319083f8c6c67ca20497ac",
+      "role": "anon",
+      "source": "爽世世，生日快乐！送给你现在最受欢迎的香薰蜡烛！",
+      "motion": "smile02"
+    },
+    {
+      "id": "96f9b70a3fa2eb18f510bb9b",
+      "role": "rana",
+      "source": "爽世的生日。挺开心的样子。",
+      "motion": "smile03"
+    },
+    {
+      "id": "9b3eb400e5ee1582e4596ade",
+      "role": "soyo",
+      "source": "自己的生日，只有在别人庆祝的时候才会有实感啊。",
+      "motion": "sad01"
+    },
+    {
+      "id": "2a33711b2a7b8aaa2d26cba0",
+      "role": "taki",
+      "source": "爽世的生日啊。在学校里有很多人给她庆祝吧？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "a67d6758913e9d969487c083",
+      "role": "tomori",
+      "source": "小立希，生日快乐。谢谢你陪在我身边。",
+      "motion": "smile01"
+    },
+    {
+      "id": "881d6388d3fd9a1acdd41a4b",
+      "role": "anon",
+      "source": "狸希，生日快乐！表现得开心一点也没关系哦？",
+      "motion": "smile02"
+    },
+    {
+      "id": "7b249b3ec898abbf5616725b",
+      "role": "rana",
+      "source": "狸希的生日。在RiNG庆祝。",
+      "motion": "smile03"
+    },
+    {
+      "id": "b6e531f3c0f36dab7dc7684c",
+      "role": "soyo",
+      "source": "生日快乐，小立希。你收到小灯的祝福了吗？",
+      "motion": "smile04"
+    },
+    {
+      "id": "80622fc5e9e2b37ef0439245",
+      "role": "taki",
+      "source": "灯记得……我的生日……！",
+      "motion": "kandou01"
+    },
+    {
+      "id": "f2096c3bda48ea633c351cad",
+      "role": "tomori",
+      "source": "小爱，生日快乐。同为处于迷途中的人，加油吧！",
+      "motion": "smile01"
+    },
+    {
+      "id": "a01c1db9f000492a03a321d7",
+      "role": "anon",
+      "source": "怎么办！会不会有人给我准备生日惊喜呢！？",
+      "motion": "smile02"
+    },
+    {
+      "id": "f6d3c24dc649f53690de1627",
+      "role": "rana",
+      "source": "爱音的生日。弹吉他吧。",
+      "motion": "smile03"
+    },
+    {
+      "id": "57507b3ee3bd2f7e901a33ad",
+      "role": "soyo",
+      "source": "小爱音的生日。我仿佛都能看到她一脸期待的样子……",
+      "motion": "smile04"
+    },
+    {
+      "id": "9813cc9282715694d58a22a5",
+      "role": "taki",
+      "source": "今天是爱音的生日啊。要是见到她感觉会很麻烦，今天早点回去吧。",
+      "motion": "sigh01"
+    },
+    {
+      "id": "165c1308c6b4aa1e517911eb",
+      "role": "tomori",
+      "source": "车站前有很多穿着万圣节变装的人……吓了我一跳……",
+      "motion": "surprised01"
+    },
+    {
+      "id": "58517773a8dcbfc76533e380",
+      "role": "tomori",
+      "source": "小爱……万圣节能这么努力，好厉害……！",
+      "motion": "smile01"
+    },
+    {
+      "id": "5f752def79eef59e94eed3e7",
+      "role": "anon",
+      "source": "和狸希说「不给糖就捣蛋」，结果被狸希无视了……",
+      "motion": "sad01"
+    },
+    {
+      "id": "d71ec11a5862db85ce517f3e",
+      "role": "anon",
+      "source": "在 MyGO!!!!! 里，只有我一个人是准备好变装来的……",
+      "motion": "smile02"
+    },
+    {
+      "id": "1a8cdaa0c34a759eb34bdd3a",
+      "role": "rana",
+      "source": "狸希做的南瓜灯。有趣的脸。",
+      "motion": "smile03"
+    },
+    {
+      "id": "ddb6390065e2752fba22f69e",
+      "role": "rana",
+      "source": "不给糖就捣蛋……快点，糖！",
+      "motion": "angry01"
+    },
+    {
+      "id": "82d947f04210876a74c2a752",
+      "role": "soyo",
+      "source": "万圣节的变装有什么有趣的？我不是很懂呢。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "47fe84e3081bafad5950ee12",
+      "role": "soyo",
+      "source": "我不想变装……要准备的只有给小乐奈的糖果了吧。",
+      "motion": "sigh01"
+    },
+    {
+      "id": "9004e7d100bf015af7a7668c",
+      "role": "taki",
+      "source": "给咖啡店做了装饰用的杰克南瓜灯……挺难做的。",
+      "motion": "serious01"
+    },
+    {
+      "id": "3bc103e9b3a103d4dffe0d99",
+      "role": "taki",
+      "source": "我第一次在认识的人里见到会在万圣节变装的……",
+      "motion": "smile04"
+    },
+    {
+      "id": "a491498ad83e50c638dd644a",
+      "role": "tomori",
+      "source": "大家送我的生日礼物，我会珍惜一辈子的……！",
+      "motion": "kandou01"
+    },
+    {
+      "id": "b40db117da6aeed030c96aa7",
+      "role": "tomori",
+      "source": "大家给我庆祝生日，我好紧张……但是，很开心……",
+      "motion": "smile01"
+    },
+    {
+      "id": "bf9fd1013eff0b96ec1e6b9d",
+      "role": "anon",
+      "source": "生日快乐，灯灯！今天我送你创可贴！",
+      "motion": "smile02"
+    },
+    {
+      "id": "0aeef8ea98b415535c8f4cdc",
+      "role": "anon",
+      "source": "今天是灯灯的生日！派对已经准备好了哦！",
+      "motion": "smile03"
+    },
+    {
+      "id": "4bda8931a0467502cc416ec3",
+      "role": "rana",
+      "source": "灯的生日。生日快乐。",
+      "motion": "smile04"
+    },
+    {
+      "id": "4e7fd8a169b7ead3db891f1d",
+      "role": "rana",
+      "source": "今天是灯的生日？那……开Live吧。",
+      "motion": "kime01"
+    },
+    {
+      "id": "1d53c30c898b372c9d2dc8b3",
+      "role": "soyo",
+      "source": "小灯，生日快乐！明年也要让我为你庆祝哦。",
+      "motion": "smile04"
+    },
+    {
+      "id": "b86ab3ad04c7341bdc6c2e99",
+      "role": "soyo",
+      "source": "小灯，生日快乐。如果可以的话，就用这本笔记本吧。",
+      "motion": "smile01"
+    },
+    {
+      "id": "a5b90b38bcf300aca0574ddd",
+      "role": "taki",
+      "source": "灯，生日快乐。从今往后……我也会一直在你身边的。",
+      "motion": "smile02"
+    },
+    {
+      "id": "6fa3b46c170f14f18fad1373",
+      "role": "taki",
+      "source": "今年也能给你过生日真是太好了。生日快乐，灯。",
+      "motion": "smile03"
+    },
+    {
+      "id": "205d1024c6b25d2f1e55bbd6",
+      "role": "tomori",
+      "source": "我精心装饰了自己喜欢的圣诞饰品。",
+      "motion": "smile01"
+    },
+    {
+      "id": "bfc0781e1ee98869fa211d51",
+      "role": "tomori",
+      "source": "小爱邀请我去参加圣诞派对了。",
+      "motion": "smile02"
+    },
+    {
+      "id": "72f13ff1605ce5739747d689",
+      "role": "anon",
+      "source": "我买了套圣诞限定化妆套装给自己当圣诞礼物！",
+      "motion": "smile03"
+    },
+    {
+      "id": "9f6384b6d0590f157b0e061c",
+      "role": "anon",
+      "source": "爽世世家的圣诞树，是海外的吗！这也太大了吧！",
+      "motion": "surprised01"
+    },
+    {
+      "id": "b42ebeb8b274276130d1b30f",
+      "role": "rana",
+      "source": "圣诞老奶奶给了我礼物。",
+      "motion": "smile04"
+    },
+    {
+      "id": "14cb93201463d598112d3813",
+      "role": "rana",
+      "source": "给猫咪送了礼物。因为是圣诞节。",
+      "motion": "smile04"
+    },
+    {
+      "id": "b9fd5799dfad85c32746dfb2",
+      "role": "soyo",
+      "source": "圣诞老人啊……我是什么时候知道真相的来着？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "a1d75cf6e0acb2f0b5447fc9",
+      "role": "soyo",
+      "source": "要开圣诞派对我没意见，但是为什么非要在我家开？",
+      "motion": "angry01"
+    },
+    {
+      "id": "cccc4483a0dab1ee9f8ac133",
+      "role": "taki",
+      "source": "再怎么说我也到了不在圣诞节闹腾的年纪了。",
+      "motion": "serious01"
+    },
+    {
+      "id": "f377480bcaae25798a4f3d3c",
+      "role": "taki",
+      "source": "交换礼物吗……和灯交换的话可以……",
+      "motion": "smile01"
+    },
+    {
+      "id": "29057c593e0a2d3d157927ac",
+      "role": "tomori",
+      "source": "希望明年、还有再下一年……都可以组一辈子乐队！",
+      "motion": "kandou01"
+    },
+    {
+      "id": "9aa929737e17834ad8ae5cdc",
+      "role": "anon",
+      "source": "明年肯定也要面对很多事情，但是只要在迷茫之中前进就好了！",
+      "motion": "smile01"
+    },
+    {
+      "id": "865cc31fd3fc30c0132f34cf",
+      "role": "rana",
+      "source": "跨年荞麦面。再来一碗！",
+      "motion": "smile02"
+    },
+    {
+      "id": "db579ec95623427e5bdd2dfe",
+      "role": "soyo",
+      "source": "比起去年，我稍微有些更加期待明年的到来了吧？",
+      "motion": "smile03"
+    },
+    {
+      "id": "dec0df61b70b928da582046e",
+      "role": "taki",
+      "source": "明年要是能……开更多的Live之类的就好了。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "5d8e6b8ab549ce670628a493",
+      "role": "tomori",
+      "source": "我在那边捡到了燕子的尾羽……形状很奇特，珍藏起来吧……",
+      "motion": "smile01"
+    },
+    {
+      "id": "811c24a1096dd4d8dd21dc95",
+      "role": "tomori",
+      "source": "春天的星座……大熊座。是北斗七星里的。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "2c2c1624ecbcfd436a08d11b",
+      "role": "tomori",
+      "source": "瓢虫，有着各种各样的种类，仅仅是看着就很开心。",
+      "motion": "smile02"
+    },
+    {
+      "id": "11de0c35fac6846bf83335e8",
+      "role": "anon",
+      "source": "从爽世世家里能不能看到樱花呢～我还想和大家一起拍照片！",
+      "motion": "smile03"
+    },
+    {
+      "id": "f95b4261784caadd137faf91",
+      "role": "anon",
+      "source": "说到春天，就不能错过水果三明治！带上这个去野餐吧！",
+      "motion": "smile04"
+    },
+    {
+      "id": "9fb7c025d7069427a8973813",
+      "role": "anon",
+      "source": "天气逐渐暖和起来了呢。小乐奈应该会开始去晒太阳了吧。",
+      "motion": "smile04"
+    },
+    {
+      "id": "1222e3159102b19305ba68b6",
+      "role": "rana",
+      "source": "好香。你带了樱叶糕？",
+      "motion": "smile01"
+    },
+    {
+      "id": "c963f18aa010009500171578",
+      "role": "rana",
+      "source": "暖和……春天很困。睡了。",
+      "motion": "sigh01"
+    },
+    {
+      "id": "de3a409a45e86e79b09a9be7",
+      "role": "rana",
+      "source": "反对把被炉收起来！",
+      "motion": "angry01"
+    },
+    {
+      "id": "cbae03284f1e1e92bece8957",
+      "role": "soyo",
+      "source": "我在起居室里放了些花。希望能有点热闹的氛围。",
+      "motion": "smile02"
+    },
+    {
+      "id": "d350a01d1b5331645a32baa4",
+      "role": "soyo",
+      "source": "现在这个时候，推荐迷迭香的香薰哦。",
+      "motion": "smile03"
+    },
+    {
+      "id": "320f2a18dc098e0e17a877d1",
+      "role": "soyo",
+      "source": "天气变暖和了呢。舒适宜人。",
+      "motion": "smile04"
+    },
+    {
+      "id": "9cecacb09e80e55eb786b496",
+      "role": "taki",
+      "source": "今年花粉好像很严重。灯需要口罩和眼药水吗？",
+      "motion": "serious01"
+    },
+    {
+      "id": "bc30ee542d17b626e97921f0",
+      "role": "taki",
+      "source": "春天的好处是，即便为了作曲而通宵了也不会难受。",
+      "motion": "smile04"
+    },
+    {
+      "id": "7595f02a2a5b55d27859448c",
+      "role": "taki",
+      "source": "我不太喜欢香菇和魔芋丝……不过也不是不能吃。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "00e2418c573f089573583a5f",
+      "role": "taki",
+      "source": "野猫在樱花树下睡觉……啊，我不是说乐奈，是真的猫。",
+      "motion": "smile01"
+    },
+    {
+      "id": "441132fb0e483516fd0e1a27",
+      "role": "tomori",
+      "source": "夏日祭典……虽然很开心的样子，但是人有点太多了……",
+      "motion": "smile01"
+    },
+    {
+      "id": "e3823448ad6229814cca8349",
+      "role": "tomori",
+      "source": "小爱戴了太阳镜。好帅气……！",
+      "motion": "smile02"
+    },
+    {
+      "id": "b1e61110f1c2525715b804e2",
+      "role": "tomori",
+      "source": "很热的日子里我会在河边捡石头。可以捡到很多光滑的石头。",
+      "motion": "smile03"
+    },
+    {
+      "id": "4f6b2fb27d94b13c0058a2fd",
+      "role": "anon",
+      "source": "我买了太阳镜。是不是有点名人的感觉？",
+      "motion": "smile04"
+    },
+    {
+      "id": "d66a9c72f90122476d8a72a3",
+      "role": "anon",
+      "source": "选哪种防晒霜好呢……总之先看看点评网站吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "717e8e3f52dda8323d0e4c3c",
+      "role": "anon",
+      "source": "暑假想要好好玩呢。所以准备有计划地做作业。",
+      "motion": "smile04"
+    },
+    {
+      "id": "b916258bce1025833eb4014b",
+      "role": "rana",
+      "source": "再来一个冰淇淋。抹茶味的。",
+      "motion": "smile01"
+    },
+    {
+      "id": "0428fce6ee7a33afa8039dcc",
+      "role": "rana",
+      "source": "热天就要吃荞麦面。",
+      "motion": "smile02"
+    },
+    {
+      "id": "9af800bbe4d1d8d713964152",
+      "role": "rana",
+      "source": "我知道哪里凉快。要来吗？",
+      "motion": "smile03"
+    },
+    {
+      "id": "883ac51208d9df2b43de3956",
+      "role": "soyo",
+      "source": "我家楼层很高……是一个看烟花的好地方呢。",
+      "motion": "smile04"
+    },
+    {
+      "id": "6199e5122c3f6783eb50c9ea",
+      "role": "soyo",
+      "source": "进入夏天琴弦也会加快劣化，就不能有些什么方法解决吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "b19f8bdd4f15487a220c9452",
+      "role": "soyo",
+      "source": "我们学校的制服，夏季制服也很受欢迎呢。妈妈也说很可爱。",
+      "motion": "smile04"
+    },
+    {
+      "id": "94923869f10d74445eaa1df3",
+      "role": "taki",
+      "source": "要下雨了的样子，灯没有带伞啊……总之先联系一下。",
+      "motion": "serious01"
+    },
+    {
+      "id": "42f7134b8d7af11ee4e98d8c",
+      "role": "taki",
+      "source": "杏仁豆腐就是要在热天冷藏，吃起来最好吧。",
+      "motion": "smile01"
+    },
+    {
+      "id": "3fd0403736366c280607a5bf",
+      "role": "taki",
+      "source": "在夏日祭典上敲和太鼓的人，难道是……！",
+      "motion": "surprised01"
+    },
+    {
+      "id": "4449ae359f49717aea508519",
+      "role": "tomori",
+      "source": "傍晚的天空虽然很美，但是有些……让人感到寂寞。",
+      "motion": "sad01"
+    },
+    {
+      "id": "1faa22ad6f285d897153bc5c",
+      "role": "tomori",
+      "source": "这个季节，可以看到蝎虎座。虽然找起来有些困难……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "a88d03b03712907dceee3895",
+      "role": "tomori",
+      "source": "那只鸟，是要飞到哪里去呢……",
+      "motion": "thinking02"
+    },
+    {
+      "id": "46e689e5834d3cc2fc3c8802",
+      "role": "anon",
+      "source": "灯灯拾到的叶子染上了金黄色，好有秋天的气息呢～",
+      "motion": "smile01"
+    },
+    {
+      "id": "789c8bef515d21da1d5acd1a",
+      "role": "anon",
+      "source": "啊，喵梦亲上传了秋季美妆视频。这个一定要看一看～",
+      "motion": "smile02"
+    },
+    {
+      "id": "1804ef39da36a4b57c25150b",
+      "role": "anon",
+      "source": "有秋季甜点活动！邀请大家一起去吧！",
+      "motion": "smile03"
+    },
+    {
+      "id": "86c1aa17d923ac72633d7b01",
+      "role": "rana",
+      "source": "嗅嗅……有烤红薯。就在旁边。",
+      "motion": "smile04"
+    },
+    {
+      "id": "3fdcb62c4d31b31f701f577c",
+      "role": "rana",
+      "source": "……啊，忘了写读书感想了。算了，无所谓。",
+      "motion": "sigh01"
+    },
+    {
+      "id": "148c972e1dc1701f8b087953",
+      "role": "rana",
+      "source": "捡到了叶子。是灯喜欢的类型。",
+      "motion": "smile04"
+    },
+    {
+      "id": "1591dc8ea67a7fe3932d5a97",
+      "role": "soyo",
+      "source": "虽然有音乐之秋的说法，但是组一辈子乐队的话也就和季节没有关系了。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "64859a7780817aa0f9922c7b",
+      "role": "soyo",
+      "source": "感觉今天有点冷呢。早知道就带披肩了……",
+      "motion": "sad01"
+    },
+    {
+      "id": "1d0811c1dd33610b4f523d0b",
+      "role": "soyo",
+      "source": "下次把装饰在客厅的花换成大波斯菊吧。",
+      "motion": "smile01"
+    },
+    {
+      "id": "cad3e03f3d3782677c340a6d",
+      "role": "taki",
+      "source": "好像要开秋日祭典了……去试试邀请灯吧。",
+      "motion": "smile02"
+    },
+    {
+      "id": "839904bb814569db2d0a58ca",
+      "role": "taki",
+      "source": "户山前辈想出来的「秋季巨无霸芭菲」，有点太过头了……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "4a0acc5f7e85fb532eff1fdb",
+      "role": "taki",
+      "source": "RiNG 周围路边的树，叶子都染上黄色了啊。",
+      "motion": "smile03"
+    },
+    {
+      "id": "405954ee7d90959ba777a05c",
+      "role": "tomori",
+      "source": "小立希把围巾借给了我。说让我别感冒了。",
+      "motion": "smile01"
+    },
+    {
+      "id": "fbbf27a2ebad25471259a0bc",
+      "role": "tomori",
+      "source": "呼出的气息变成了白雾，能让我感觉到自己活着，真不错……",
+      "motion": "smile02"
+    },
+    {
+      "id": "a8bf5e58da1af173abe12642",
+      "role": "tomori",
+      "source": "活动室只留下了许多双子座的观测记录……为什么呢？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "6897553d2776b5fea13fd677",
+      "role": "tomori",
+      "source": "忘记戴手套了……小爱把自己的手套借给我一只……",
+      "motion": "smile03"
+    },
+    {
+      "id": "a95ef49c6c3b38750c7a0339",
+      "role": "tomori",
+      "source": "要是能把雪花收集起来就好了……",
+      "motion": "thinking02"
+    },
+    {
+      "id": "00dc1924409ff91a2e77596d",
+      "role": "tomori",
+      "source": "本来打算去捡石头……但是外面好冷……",
+      "motion": "sad01"
+    },
+    {
+      "id": "c56528c5552579298ced0c2c",
+      "role": "anon",
+      "source": "因为我看了很多美容视频，所以冬天的防干燥措施做得很完美哦。",
+      "motion": "smile04"
+    },
+    {
+      "id": "a18cf9db5b777e0124662d9e",
+      "role": "anon",
+      "source": "彩灯展吗……哪里的彩灯展最热闹呢？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "567f95f37c9dabb0b7aeabb6",
+      "role": "anon",
+      "source": "呜呜，吉他的琴箱好冰……冬天的时候这点好难受啊……",
+      "motion": "sad01"
+    },
+    {
+      "id": "fe7187dca96a669193661428",
+      "role": "anon",
+      "source": "哇～！下雪了！这下能拍出来好看的照片放在社交平台上了！",
+      "motion": "smile04"
+    },
+    {
+      "id": "e7d8e8c03918f3087c97e4a2",
+      "role": "anon",
+      "source": "「ANON TOKYO」的新作是……厚衣服吧。毕竟这么冷了。",
+      "motion": "thinking02"
+    },
+    {
+      "id": "00159943100da88cba294abe",
+      "role": "anon",
+      "source": "小乐奈，天冷了就呆在暖气旁边完全不肯动！",
+      "motion": "angry01"
+    },
+    {
+      "id": "b2ebd78b67262ace79c69e20",
+      "role": "rana",
+      "source": "被炉。一进去就睡着。",
+      "motion": "smile01"
+    },
+    {
+      "id": "d36acde1cfd6cbb535bd9887",
+      "role": "rana",
+      "source": "刚刚在和猫玩，冷的时候大家都会聚集过来。",
+      "motion": "smile02"
+    },
+    {
+      "id": "f4186e90ef4f3fc245694cfb",
+      "role": "rana",
+      "source": "冬天很困。非常困。为什么？",
+      "motion": "sigh01"
+    },
+    {
+      "id": "125f3f3d5fb6a35bbb601657",
+      "role": "rana",
+      "source": "冬天猫咪也不会集会。真无聊。",
+      "motion": "sad01"
+    },
+    {
+      "id": "bb30b2c92dad81d96bdcc947",
+      "role": "rana",
+      "source": "打雪仗？不玩。很冷。",
+      "motion": "angry01"
+    },
+    {
+      "id": "ebad0cdd8330c038adb35138",
+      "role": "rana",
+      "source": "柚饼子配上热乎乎的茶。真美味。",
+      "motion": "smile03"
+    },
+    {
+      "id": "c1b50f70edc11afc69f06c41",
+      "role": "soyo",
+      "source": "今天很冷，晚餐就吃意式蔬菜浓汤吧。",
+      "motion": "smile04"
+    },
+    {
+      "id": "cf3118d7ee34bcd39f9387da",
+      "role": "soyo",
+      "source": "有充电式暖手宝的话，就可以在练习前暖暖手指，很方便哦。",
+      "motion": "smile04"
+    },
+    {
+      "id": "8b03e5d43ad2f910a74208cf",
+      "role": "soyo",
+      "source": "在这个时期，很想喝热乎的红茶……回去的时候顺路去一趟咖啡厅吧。",
+      "motion": "smile01"
+    },
+    {
+      "id": "c076213fbaddb15898dde1f2",
+      "role": "soyo",
+      "source": "「ANON TOKYO冬季新作告知！」……这是什么？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "783e089c23b6305683329030",
+      "role": "soyo",
+      "source": "预防感冒的话，茶树香薰应该很有效果吧。",
+      "motion": "smile02"
+    },
+    {
+      "id": "65a41b1fcbd85b4a73907519",
+      "role": "soyo",
+      "source": "冬天天气干燥，对皮肤和低音提琴都是大敌。",
+      "motion": "serious01"
+    },
+    {
+      "id": "0cc3e004522f532ecdb7e54c",
+      "role": "taki",
+      "source": "咖啡店的推荐菜单？现在的话推荐热姜茶，还有咖啡。",
+      "motion": "smile03"
+    },
+    {
+      "id": "54183816b2bb780962fe15bf",
+      "role": "taki",
+      "source": "据说熊猫很耐寒……因为它们毛茸茸的吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "ffd6185176a95641db9d34d2",
+      "role": "taki",
+      "source": "天很冷，我把围巾借给灯了。我自己无所谓。",
+      "motion": "smile04"
+    },
+    {
+      "id": "ed5f5e5f0689685d6b556240",
+      "role": "taki",
+      "source": "冬天很干燥……。给灯带点口罩和润喉糖吧。",
+      "motion": "serious01"
+    },
+    {
+      "id": "12c195f44773f3700dc1d47b",
+      "role": "taki",
+      "source": "我真是服了……就因为天冷，乐奈总是在睡觉……！",
+      "motion": "angry01"
+    },
+    {
+      "id": "7d385c016e95202cabef121d",
+      "role": "taki",
+      "source": "好疼！啊，真是的，又是静电！",
+      "motion": "surprised01"
+    },
+    {
+      "id": "57361d893c74508d596a866a",
+      "role": "tomori",
+      "source": "早上好。要准备上学了。马上又能看到小爱了。",
+      "motion": "smile01"
+    },
+    {
+      "id": "44a0fb6b74c72a3b21b82f27",
+      "role": "tomori",
+      "source": "早上好。妈妈昨天又是夜班，工作真辛苦啊。",
+      "motion": "sad01"
+    },
+    {
+      "id": "ad2ae712e4348b7126f9fde8",
+      "role": "anon",
+      "source": "早上好！昨天又练习吉他到很晚了呢。感觉自己的技术要突飞猛进了？",
+      "motion": "smile02"
+    },
+    {
+      "id": "9ff1d94134460a00294f9a12",
+      "role": "anon",
+      "source": "早上好！爽世世家的床好大好软啊，好舒服～",
+      "motion": "smile03"
+    },
+    {
+      "id": "43c4a87fe39ad243e438da31",
+      "role": "anon",
+      "source": "早上好！今天要不要试试喵梦亲新推荐的化妆品呢～？",
+      "motion": "smile04"
+    },
+    {
+      "id": "827d769f8b85821c05ade151",
+      "role": "rana",
+      "source": "早上好。和猫咪过了一晚。很开心。",
+      "motion": "smile04"
+    },
+    {
+      "id": "c167fe065a3ffd9c907fc5dd",
+      "role": "rana",
+      "source": "早上好。早餐就应该吃荞麦面。",
+      "motion": "smile01"
+    },
+    {
+      "id": "6eb607506b299ea295744951",
+      "role": "soyo",
+      "source": "早上好！早睡早起有益健康。这样才能组一辈子乐队哦。",
+      "motion": "smile02"
+    },
+    {
+      "id": "bfb23d2a83fb3ce809f48ced",
+      "role": "soyo",
+      "source": "早上好！今天要不要试试小爱音推荐的那个化妆品呢？",
+      "motion": "smile03"
+    },
+    {
+      "id": "397e38a1c76b9157bbba89f0",
+      "role": "taki",
+      "source": "早安。昨晚又熬夜了，感觉好困啊。去学校再睡吧。",
+      "motion": "sigh01"
+    },
+    {
+      "id": "0bc8d8ed16c6e297777ef4cf",
+      "role": "taki",
+      "source": "早安。昨晚又通宵了……感觉不能再这样下去了……",
+      "motion": "sad01"
+    },
+    {
+      "id": "477f8d8eb7c0f1d413a3f7f6",
+      "role": "tomori",
+      "source": "上午好。今天的地理课感觉很有趣……是关于石头的。",
+      "motion": "smile01"
+    },
+    {
+      "id": "bd490096c10f71462a11b63c",
+      "role": "tomori",
+      "source": "上午好。今天在校园里捡到了新的石头……看起来像是企鹅……",
+      "motion": "smile02"
+    },
+    {
+      "id": "b87cd7d8aa084f3e7df22f35",
+      "role": "anon",
+      "source": "上午好！今天的课程看起来很简单啊。考试一定没有问题吧。",
+      "motion": "smile03"
+    },
+    {
+      "id": "c11740d86cff6b22c59e20af",
+      "role": "anon",
+      "source": "上午好！诶？狸希在群里发了信息……？她不上课吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "59349065359c2a80ab915d78",
+      "role": "rana",
+      "source": "上午好。外婆说，不能逃课。",
+      "motion": "serious01"
+    },
+    {
+      "id": "419d288030175d2d13fb954f",
+      "role": "rana",
+      "source": "上午好。啊，校园里有猫咪在行走。",
+      "motion": "smile04"
+    },
+    {
+      "id": "f095df62459b41eddda236b2",
+      "role": "soyo",
+      "source": "贵安。同学们看起来都很精神呢。",
+      "motion": "smile04"
+    },
+    {
+      "id": "ef8266f9dc6c6bb28c3ad25c",
+      "role": "soyo",
+      "source": "贵安。总感觉，今天的小睦，有点不太一样……？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "eed66faa81d1a8d3410ad86d",
+      "role": "taki",
+      "source": "上午好。刚刚又睡了一节课。但是为什么总是感觉身后有人在盯着我？",
+      "motion": "sigh01"
+    },
+    {
+      "id": "21ad07258aa4a78dbc6b8cb4",
+      "role": "taki",
+      "source": "上午好。等等，外面树上的是野猫吗！？",
+      "motion": "surprised01"
+    },
+    {
+      "id": "23daebfdf63ab0d589f4c371",
+      "role": "tomori",
+      "source": "中午了，跟小爱去天文部吃便当吧。我昨天新买了创可贴，想给小爱看。",
+      "motion": "smile01"
+    },
+    {
+      "id": "a220363374195a9801bfd8a7",
+      "role": "tomori",
+      "source": "中午了，今天没有带便当……啊，坐在食堂角落里的，是小祥吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "eeeb11207f8f25c098243796",
+      "role": "anon",
+      "source": "午休时间到了。今天要跟灯灯一起去天文部吃便当吗？",
+      "motion": "smile02"
+    },
+    {
+      "id": "7ae99e3c6a4e8cea108632b6",
+      "role": "anon",
+      "source": "中午了啊……稍微站起来活动一下吧？",
+      "motion": "smile03"
+    },
+    {
+      "id": "6a2ba7666c2e54a936d7c768",
+      "role": "rana",
+      "source": "中午了，去学校的树上睡午觉吧。",
+      "motion": "smile04"
+    },
+    {
+      "id": "f6804cfe7d1baf0872b8126b",
+      "role": "rana",
+      "source": "中午了。要不要去高中部找狸希玩……？",
+      "motion": "smile04"
+    },
+    {
+      "id": "8b70847df1cb92c05e89cb01",
+      "role": "soyo",
+      "source": "贵安。吃完午饭后，要不要去园艺部看看呢？",
+      "motion": "smile01"
+    },
+    {
+      "id": "c01050f8575dbacd6550c258",
+      "role": "soyo",
+      "source": "贵安。小睦那边似乎聚集了很多同学，稍微有些在意呢……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "eab6caecab7ffa25282f46f0",
+      "role": "taki",
+      "source": "上午的课程终于结束了。啊，海铃又给我带了一瓶奶冻。",
+      "motion": "smile02"
+    },
+    {
+      "id": "b96d472fac1b406cc7408bc6",
+      "role": "taki",
+      "source": "中午了。海铃这几天怎么总是给我带奶冻呢？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "46646bdc74119d4dd3bbf47c",
+      "role": "taki",
+      "source": "中午了。海铃又躲起来了……去找找她吧。",
+      "motion": "smile03"
+    },
+    {
+      "id": "ecba0c0cb132b45e28cba041",
+      "role": "tomori",
+      "source": "下午好。啊！我又有新的灵感了……放学后去天文部把它记下来吧。",
+      "motion": "smile01"
+    },
+    {
+      "id": "d6c112dd0988c76fea22092f",
+      "role": "tomori",
+      "source": "下午好。今天捡到了很漂亮的虫子……但是小爱害怕地跑走了……",
+      "motion": "sad01"
+    },
+    {
+      "id": "839f44201488ccc355358c24",
+      "role": "anon",
+      "source": "下午好！去练习的时候，不知道狸希会怎么夸我呢？",
+      "motion": "smile02"
+    },
+    {
+      "id": "29318f25bf08ed058989c2b9",
+      "role": "anon",
+      "source": "放学后，是和灯灯去天文部还是去音乐教室找祥祥呢？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "54e79b505954f8d679771389",
+      "role": "rana",
+      "source": "下午。明媚的阳光。很适合打盹儿。",
+      "motion": "smile03"
+    },
+    {
+      "id": "d652e66bdaec0259cf2b9fcd",
+      "role": "rana",
+      "source": "下午了。功课，好无聊。好想开Live。",
+      "motion": "sigh01"
+    },
+    {
+      "id": "43ca72b150321e9dfd1c7723",
+      "role": "soyo",
+      "source": "贵安。等会儿要给吹奏部的大家准备材料呢。",
+      "motion": "smile04"
+    },
+    {
+      "id": "2d41fa301dd315a8362cbaac",
+      "role": "soyo",
+      "source": "贵安。嗯……在社团活动开始以前，要把所有人的乐谱打印出来……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "be97771d996332527c1e4ecf",
+      "role": "taki",
+      "source": "Live的日子近了，不知道爱音那家伙有没有好好练习。",
+      "motion": "serious01"
+    },
+    {
+      "id": "4b4439ba4568af529b1e85c9",
+      "role": "taki",
+      "source": "野猫只会在心血来潮的时候参加练习。我得在放学后去初中部把她揪过来……",
+      "motion": "angry01"
+    },
+    {
+      "id": "4febd0fccd285e97866c6586",
+      "role": "tomori",
+      "source": "新曲的练习，很不错……小立希作的曲太棒了。",
+      "motion": "smile01"
+    },
+    {
+      "id": "f430ae2c1b84bee107564968",
+      "role": "tomori",
+      "source": "回家的路上，看到了新的海洋生物系列创可贴。把它买下来吧。",
+      "motion": "smile02"
+    },
+    {
+      "id": "df7aca8f2e8a1be04f8d731e",
+      "role": "anon",
+      "source": "傍晚了！夕阳的景色很美丽呢，拍张照片发到MyGO!!!!!账号上吧。",
+      "motion": "smile03"
+    },
+    {
+      "id": "00f0b16865d5e4ba7f090680",
+      "role": "anon",
+      "source": "今天在练习中被狸希表扬了哦！哼哼～",
+      "motion": "smile04"
+    },
+    {
+      "id": "ef4b21d12d711911c7a6a80d",
+      "role": "rana",
+      "source": "弹吉他。爽。希望早点开Live。",
+      "motion": "smile04"
+    },
+    {
+      "id": "6214eccb6c606456f8219eb8",
+      "role": "rana",
+      "source": "狸希，练习结束后，抹茶芭菲。",
+      "motion": "smile01"
+    },
+    {
+      "id": "af65b828ccaaf8fa05bf423d",
+      "role": "soyo",
+      "source": "小爱音又缠着我要去我家了。真是麻烦呢。",
+      "motion": "sigh01"
+    },
+    {
+      "id": "4cce47f0cf2c127f20ac0a72",
+      "role": "soyo",
+      "source": "小立希，今天小灯由我来送吧。",
+      "motion": "smile02"
+    },
+    {
+      "id": "7c68e75304087537369fa8b3",
+      "role": "soyo",
+      "source": "怎么办，突然有段空闲时间了，就顺着逛到了这来了……但我也没有特别想要的东西。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "16d0c3706f511cdd9c4a0f1a",
+      "role": "taki",
+      "source": "今天的练习，爱音表现确实有进步。不过稍微夸了她两句就有些骄傲了。",
+      "motion": "serious01"
+    },
+    {
+      "id": "da2ab683fca974e1e2e453fe",
+      "role": "taki",
+      "source": "今天的Live，灯唱得真是太好了！我能完全感受到那丰富的情感。",
+      "motion": "kandou01"
+    },
+    {
+      "id": "dc116068c920c006a76ec7d1",
+      "role": "taki",
+      "source": "这条商店街……总是弥漫着各种香味……肚子饿了呢。",
+      "motion": "smile03"
+    },
+    {
+      "id": "2f613344a6d7311080459cd5",
+      "role": "tomori",
+      "source": "晚上好，刚刚去天文馆看了星星。",
+      "motion": "smile01"
+    },
+    {
+      "id": "a09f13bd7ce4620e92e3b5d1",
+      "role": "tomori",
+      "source": "晚上好。刚刚和小爱去水族馆看了企鹅。像是在天上飞一样。",
+      "motion": "smile02"
+    },
+    {
+      "id": "de3bb5b7b74acfad42ea3c6c",
+      "role": "anon",
+      "source": "晚上好！啊，喵梦亲又更新了新的视频！我要赶紧看一看。",
+      "motion": "smile03"
+    },
+    {
+      "id": "5615715ed1848882ed59cb8c",
+      "role": "anon",
+      "source": "晚上好！今天又和灯灯去水族馆看企鹅了哦～还拍了照片～",
+      "motion": "smile04"
+    },
+    {
+      "id": "5602e11399b99b3289cd3785",
+      "role": "anon",
+      "source": "晚上好！今天爽世世的妈妈应该也不会回来，要不要去陪陪她呢？",
+      "motion": "smile04"
+    },
+    {
+      "id": "c64ab04ac6c452cef496647d",
+      "role": "rana",
+      "source": "晚上好。找到容身之处，很开心。",
+      "motion": "smile01"
+    },
+    {
+      "id": "fa0433e99a81d41aa3018dac",
+      "role": "rana",
+      "source": "晚上好。猫咪很喜欢在SPACE门前集会。",
+      "motion": "smile02"
+    },
+    {
+      "id": "6f0274512150f52d8c2fbe96",
+      "role": "soyo",
+      "source": "晚上好。小爱音那家伙，最终还是跟着我到家里了啊。",
+      "motion": "sigh01"
+    },
+    {
+      "id": "dd33a68a78d30646bf6ebc47",
+      "role": "soyo",
+      "source": "晚上好。小爱音又缠着我了，真是麻烦的孩子。",
+      "motion": "sigh01"
+    },
+    {
+      "id": "4e4558b54abaf763edd3e136",
+      "role": "soyo",
+      "source": "晚上好。小爱音今天直接回自己家了……可是，我没说不让她来……",
+      "motion": "sad01"
+    },
+    {
+      "id": "fd0ec38ce38194d79f27719a",
+      "role": "taki",
+      "source": "晚上好。今天也得加油把曲给编出来。",
+      "motion": "serious01"
+    },
+    {
+      "id": "d7501a7b6b7a544b4d6e5c3e",
+      "role": "taki",
+      "source": "晚上好。这道题好难……不过真不想拜托爱音那家伙……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "04217513c55f93cffb3f04ec",
+      "role": "tomori",
+      "source": "睡觉之前，要不要再在床上练习一下唱歌呢？",
+      "motion": "smile01"
+    },
+    {
+      "id": "27ed4fb5eb7cc70d11633ee0",
+      "role": "tomori",
+      "source": "…………！写好了……！下首歌的歌词……！……咦？已经这么晚了……？",
+      "motion": "surprised01"
+    },
+    {
+      "id": "25e53794295550cb261c67c1",
+      "role": "anon",
+      "source": "功课写完了，来弹一会儿吉他吧～",
+      "motion": "smile02"
+    },
+    {
+      "id": "fd56b4c6a9c40180413a2e52",
+      "role": "anon",
+      "source": "诶？喵梦亲这么晚了还开直播？我看看，我看看～",
+      "motion": "smile03"
+    },
+    {
+      "id": "43260dd43a801b0039a900cc",
+      "role": "rana",
+      "source": "睡觉了。晚安。",
+      "motion": "smile04"
+    },
+    {
+      "id": "7c9bcedc97636110976d84ec",
+      "role": "rana",
+      "source": "外婆说，该睡觉了。",
+      "motion": "serious01"
+    },
+    {
+      "id": "dfa3512ce77a3cc7969bc46f",
+      "role": "rana",
+      "source": "该睡觉了。不过睡前再来一碗荞麦面吧。",
+      "motion": "smile04"
+    },
+    {
+      "id": "2f76a5869afae43d59cd259d",
+      "role": "soyo",
+      "source": "已经这么晚了吗？我是不熬夜主义者，还是赶紧睡觉吧。",
+      "motion": "serious01"
+    },
+    {
+      "id": "cff922c74d7bb381140793bb",
+      "role": "soyo",
+      "source": "晚上也要注意健康哦，看屏幕时要爱护眼睛。",
+      "motion": "smile01"
+    },
+    {
+      "id": "34bfc688a898505e8ee576b8",
+      "role": "taki",
+      "source": "已经这个时间了吗……我还是再写一会儿曲子吧。",
+      "motion": "serious01"
+    },
+    {
+      "id": "a5ad8f5e18a72b2044ed7d8f",
+      "role": "taki",
+      "source": "今天就不通宵了吧……早点睡觉，明天还要上学呢。",
+      "motion": "sigh01"
+    },
+    {
+      "id": "78aa3e2efdcd0d4505e4c107",
+      "role": "tomori",
+      "source": "好黑啊……赶紧睡觉吧……",
+      "motion": "sad01"
+    },
+    {
+      "id": "1767c140c9b66c02151404b3",
+      "role": "anon",
+      "source": "好困啊～这么晚还不睡觉，明天起的来吗？",
+      "motion": "sigh01"
+    },
+    {
+      "id": "8cb888db9a0f61643bdd92ea",
+      "role": "anon",
+      "source": "这么晚还不睡觉的话，明天会有黑眼圈哦……化妆盖不住的那种！",
+      "motion": "serious01"
+    },
+    {
+      "id": "7f03eef3b2d1c5d715312a04",
+      "role": "rana",
+      "source": "毕竟，我是人，不是猫，晚上还是要睡觉的。",
+      "motion": "serious01"
+    },
+    {
+      "id": "19d792d10773b37a1192bbd4",
+      "role": "rana",
+      "source": "猫咪喜欢晚上出来，但是我不太能做到。",
+      "motion": "sad01"
+    },
+    {
+      "id": "103fcbeda3d37340eace6c04",
+      "role": "soyo",
+      "source": "又是一个安静的晚上，睡不着盯着小祥的头像。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "488644811252b9138a68e599",
+      "role": "soyo",
+      "source": "再不睡觉的话，就没法达成一辈子乐队的目标了啊……",
+      "motion": "serious01"
+    },
+    {
+      "id": "45df3b1866ad94afbc51e051",
+      "role": "taki",
+      "source": "好像有点困。要不还是睡觉吧。",
+      "motion": "sigh01"
+    },
+    {
+      "id": "66c38ef0ffd0a6fb10c54e0d",
+      "role": "taki",
+      "source": "好困……通宵果然吃不消……可是不这样做的话，新歌就来不及完成了……",
+      "motion": "sad01"
+    },
+    {
+      "id": "2055a86ba2834c8537363d45",
+      "role": "tomori",
+      "source": "这些话，就像诗一样呢……",
+      "motion": "smile01"
+    },
+    {
+      "id": "607ca0244f8bdf058d46b3f0",
+      "role": "tomori",
+      "source": "感觉可以把这些话写到歌词里面去。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "1175de9e3370a80e600344d7",
+      "role": "anon",
+      "source": "感觉说这样的话很有灯灯的风格呢。",
+      "motion": "smile02"
+    },
+    {
+      "id": "820c519b07db30c3e9bb463a",
+      "role": "rana",
+      "source": "有趣的名言。",
+      "motion": "smile03"
+    },
+    {
+      "id": "c1915251075242d11f647f77",
+      "role": "soyo",
+      "source": "小爱音要是有这样的品味就好了。",
+      "motion": "sigh01"
+    },
+    {
+      "id": "8e72802ed4b1c557bda401c1",
+      "role": "taki",
+      "source": "像是歌词一样呢。",
+      "motion": "smile04"
+    },
+    {
+      "id": "113ab5692405fc03b4d9995b",
+      "role": "tomori",
+      "source": "大家，可以过来一下吗？",
+      "motion": "smile01"
+    },
+    {
+      "id": "abba23640d8f2ccfb58a0486",
+      "role": "anon",
+      "source": "大家，这边这边～",
+      "motion": "smile02"
+    },
+    {
+      "id": "990b26d3af0aebbd974c592c",
+      "role": "rana",
+      "source": "大家，来这里。",
+      "motion": "serious01"
+    },
+    {
+      "id": "76a9b4dca250011df4ce4f3f",
+      "role": "soyo",
+      "source": "大家，看向这里～",
+      "motion": "smile03"
+    },
+    {
+      "id": "3ce8194e5b65d1429af42d8c",
+      "role": "taki",
+      "source": "大家，能过来吗？",
+      "motion": "smile04"
+    },
+    {
+      "id": "c7eefaba32d7fe0ba0bd0f0a",
+      "role": "tomori",
+      "source": "换一身衣服吧……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "8a2e684474d0f0cdfc908bd1",
+      "role": "anon",
+      "source": "哼哼～要看看「ANON TOKYO」的新作吗？",
+      "motion": "smile01"
+    },
+    {
+      "id": "f67eed46849f72c61269f7de",
+      "role": "rana",
+      "source": "衣服……好看。",
+      "motion": "smile02"
+    },
+    {
+      "id": "d5de953bcef6d8db5327a374",
+      "role": "soyo",
+      "source": "小爱音的品味真是有些一言难尽呢。",
+      "motion": "sigh01"
+    },
+    {
+      "id": "588633d8c66c545c1997321f",
+      "role": "taki",
+      "source": "既然灯觉得这件衣服好，那我就换一下吧。",
+      "motion": "smile03"
+    },
+    {
+      "id": "1df16e4497326981ac235325",
+      "role": "tomori",
+      "source": "诶？要照相……吗？",
+      "motion": "surprised01"
+    },
+    {
+      "id": "07216cc1b2fd2766d4b11638",
+      "role": "anon",
+      "source": "来拍张照吧～大家一起～",
+      "motion": "smile01"
+    },
+    {
+      "id": "7d9662189f6e3253d84cb6f2",
+      "role": "rana",
+      "source": "照相？抹茶芭菲。",
+      "motion": "smile02"
+    },
+    {
+      "id": "c770a1af7f89a4c81587145b",
+      "role": "soyo",
+      "source": "我没说不拍。",
+      "motion": "serious01"
+    },
+    {
+      "id": "47d35d1016b7de614d439ed1",
+      "role": "taki",
+      "source": "哈？要照相？",
+      "motion": "surprised02"
+    },
+    {
+      "id": "671b6867ec465cb0b4f2e58c",
+      "role": "tomori",
+      "source": "想和大家……增进一下了解……",
+      "motion": "smile01"
+    },
+    {
+      "id": "6cc195b4be5da31a5a5f7b36",
+      "role": "anon",
+      "source": "想要知道更多关于我的事吗？其实啊……",
+      "motion": "smile02"
+    },
+    {
+      "id": "6cb45f514a301579be29fcb2",
+      "role": "rana",
+      "source": "外婆以前开了一家Live House……",
+      "motion": "serious01"
+    },
+    {
+      "id": "e6521b8d445ae6e3f6d9a1c3",
+      "role": "soyo",
+      "source": "多互相了解真的是一件有意义的事呢。",
+      "motion": "smile03"
+    },
+    {
+      "id": "d1f0d4271cf0a3b6413bd7a2",
+      "role": "taki",
+      "source": "了解更多信息吗……也不错呢。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "9fa89306da9887879371dad0",
+      "role": "tomori",
+      "source": "那么……下次见……",
+      "motion": "bye01"
+    },
+    {
+      "id": "ecc14adc90ff96ba5c52b04e",
+      "role": "anon",
+      "source": "再见！玩得开心哦！",
+      "motion": "smile01"
+    },
+    {
+      "id": "3cc753637236dd60821954ed",
+      "role": "rana",
+      "source": "再见。",
+      "motion": "bye02"
+    },
+    {
+      "id": "1eda974eb591c8a04f5bf3e0",
+      "role": "soyo",
+      "source": "下次见！",
+      "motion": "smile02"
+    },
+    {
+      "id": "c3795a7de5da27a85184753b",
+      "role": "taki",
+      "source": "今天就先到这里吧。",
+      "motion": "serious01"
+    },
+    {
+      "id": "3b29e45b0d92c5dc8291a94f",
+      "role": "tomori",
+      "source": "要回到首页吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "455f5c147e45cf831864769d",
+      "role": "anon",
+      "source": "要回到首页吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "fc58fd54e8ccd709c828386d",
+      "role": "rana",
+      "source": "要回到首页吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "32eed9a919a008cd04b658cf",
+      "role": "soyo",
+      "source": "要回到首页吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "64fb3b7315e5d33a912d6a9e",
+      "role": "taki",
+      "source": "要回到首页吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "162585dd79d530664f4f6b9a",
+      "role": "tomori",
+      "source": "要了解这个网站吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "80aa9b797becbaeee9047086",
+      "role": "tomori",
+      "source": "这个人……感觉是个好人。",
+      "motion": "smile01"
+    },
+    {
+      "id": "a53c9c031bb76f94a42c0577",
+      "role": "anon",
+      "source": "要了解这个网站吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "ff58b6b5b2cef512ee807129",
+      "role": "anon",
+      "source": "这是我们MyGO!!!!!的粉丝哦！你要不要也关注一下？",
+      "motion": "smile02"
+    },
+    {
+      "id": "80c11a39a85b189df1449009",
+      "role": "rana",
+      "source": "要了解这个网站吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "569daaac0af04902c4ad7686",
+      "role": "rana",
+      "source": "有趣的人。",
+      "motion": "smile03"
+    },
+    {
+      "id": "4dbef9a25e145a65c6720c0d",
+      "role": "soyo",
+      "source": "要了解这个网站吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "717d97414280140c248da225",
+      "role": "soyo",
+      "source": "是很温柔的人呢。",
+      "motion": "smile04"
+    },
+    {
+      "id": "c7bdcf31d0d4c161d7237ad5",
+      "role": "taki",
+      "source": "要了解这个网站吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "fa550448a98bdcfec46ec389",
+      "role": "taki",
+      "source": "不像是坏人。",
+      "motion": "serious01"
+    },
+    {
+      "id": "dedadb6ad1bc08ce05d5f22c",
+      "role": "tomori",
+      "source": "要看看文章的标签吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "9889636339051857c4f86cd1",
+      "role": "anon",
+      "source": "要看看文章的标签吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "948d904c46347d56d1527a15",
+      "role": "rana",
+      "source": "要看看文章的标签吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "d9d924ebfec302f972927b23",
+      "role": "soyo",
+      "source": "要看看文章的标签吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "d7763b48d75e63a88ef9139e",
+      "role": "taki",
+      "source": "要看看文章的标签吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "c7f2c85008e3383847cc94e0",
+      "role": "tomori",
+      "source": "要看看文章的分类吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "bacda43855f70b2dbd3087c6",
+      "role": "anon",
+      "source": "要看看文章的分类吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "adfd404a03cc4673c3598a2f",
+      "role": "rana",
+      "source": "要看看文章的分类吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "343b7602ade5b396007a8391",
+      "role": "soyo",
+      "source": "要看看文章的分类吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "da46e58a38b8915ebaac02e1",
+      "role": "taki",
+      "source": "要看看文章的分类吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "d2824fd36ef4a7387b889693",
+      "role": "tomori",
+      "source": "要看看文章的归档吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "41d89ba08f32b4d921ce643b",
+      "role": "tomori",
+      "source": "归档，真是方便呢……我要不要把我的歌词也整理一下？",
+      "motion": "smile01"
+    },
+    {
+      "id": "9d24dee70d397badbe07bd7b",
+      "role": "anon",
+      "source": "要看看文章的归档吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "62e34bc2888bc7f81d248ff9",
+      "role": "rana",
+      "source": "要看看文章的归档吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "51813e491b05071d853d7b6f",
+      "role": "soyo",
+      "source": "要看看文章的归档吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "39d7c1919b0014ce7e7713f8",
+      "role": "taki",
+      "source": "要看看文章的归档吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "b94ab968e4a599c84024cdb2",
+      "role": "tomori",
+      "source": "好多朋友……我也有很多石头朋友哦。想看看吗？",
+      "motion": "smile01"
+    },
+    {
+      "id": "94502b2254e6ac4db13fafcc",
+      "role": "anon",
+      "source": "有许多朋友真是快乐的事情呢！",
+      "motion": "smile02"
+    },
+    {
+      "id": "25d0be0e49fe14bc80433890",
+      "role": "rana",
+      "source": "外婆说，多交朋友，是好事。",
+      "motion": "serious01"
+    },
+    {
+      "id": "5a5186006f6cfdd18b619f0e",
+      "role": "soyo",
+      "source": "和朋友在一起，仿佛有一种家的感觉呢。",
+      "motion": "smile03"
+    },
+    {
+      "id": "9051c078c771294ca8b1e276",
+      "role": "taki",
+      "source": "感觉有这么多朋友会很麻烦啊……爱音和爽世是怎么交到这么多朋友的？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "2cd1b7cad21f6811e9c4bf77",
+      "role": "tomori",
+      "source": "要搜索看看吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "3c19f477e1b6c8d3f578e600",
+      "role": "anon",
+      "source": "要搜索看看吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "2d8119a9f4a71e3ee263880d",
+      "role": "rana",
+      "source": "要搜索看看吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "3908a1aaf779c7ab1f77b755",
+      "role": "soyo",
+      "source": "要搜索看看吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "8b0ec6ea7f214868f35082f1",
+      "role": "taki",
+      "source": "要搜索看看吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "033c083adb365f5f568b69d8",
+      "role": "tomori",
+      "source": "要看看这里都有什么吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "af7bbbc876e388baf5808f8f",
+      "role": "anon",
+      "source": "要看看这里都有什么吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "b9fe807cb415ef9230a3e942",
+      "role": "rana",
+      "source": "要看看这里都有什么吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "4fc1baa4abb8ed8bc8abd5d7",
+      "role": "soyo",
+      "source": "要看看这里都有什么吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "59ec66cc3b1d986eb339db64",
+      "role": "taki",
+      "source": "要看看这里都有什么吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "4241e68d00275d89120f7a9a",
+      "role": "tomori",
+      "source": "要看看统计信息吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "6bb248bbee4fb5001ab23162",
+      "role": "anon",
+      "source": "要看看统计信息吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "60f48c50fbba0abcad9f7b37",
+      "role": "rana",
+      "source": "要看看统计信息吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "0e38fefd9b2ba3a35b4b137d",
+      "role": "soyo",
+      "source": "要看看统计信息吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "d35bf297c5b36f4543908494",
+      "role": "taki",
+      "source": "要看看统计信息吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "9d129841c93b66eac4937037",
+      "role": "tomori",
+      "source": "要使用RSS订阅吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "90a59da4438e4170afba518e",
+      "role": "anon",
+      "source": "要使用RSS订阅吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "f09624af124c02179471eefd",
+      "role": "rana",
+      "source": "要使用RSS订阅吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "1602f829d80b79ebc5253994",
+      "role": "soyo",
+      "source": "要使用RSS订阅吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "6aee6efd690e1f95097628a9",
+      "role": "taki",
+      "source": "要使用RSS订阅吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "4edfdb406704d361fbea7da1",
+      "role": "tomori",
+      "source": "所有文章均采用CC BY-SA 4.0许可协议，要注意版权呢……",
+      "motion": "serious01"
+    },
+    {
+      "id": "37ee1ba2dc1d3c1a5077e6bf",
+      "role": "tomori",
+      "source": "我要不要把我的诗也采用CC BY-SA 4.0许可协议发布呢……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "005fe175e9ea44d506abc616",
+      "role": "anon",
+      "source": "所有文章均采用CC BY-SA 4.0许可协议，要注意版权哦！",
+      "motion": "serious02"
+    },
+    {
+      "id": "6099a0f269392e74c2c19b79",
+      "role": "rana",
+      "source": "「所有文章均采用CC BY-SA 4.0许可协议」……？看不太懂。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "2d36106d5016bf99be31996e",
+      "role": "soyo",
+      "source": "所有文章均采用CC BY-SA 4.0许可协议，要注意版权呢。",
+      "motion": "serious01"
+    },
+    {
+      "id": "ab281bbc7726591ae604ee0b",
+      "role": "taki",
+      "source": "所有文章均采用CC BY-SA 4.0许可协议，不要剽窃他人的创作哦。",
+      "motion": "serious02"
+    },
+    {
+      "id": "6d22540e840673bac49a3e86",
+      "role": "tomori",
+      "source": "我知道的，这是网页链接。",
+      "motion": "smile01"
+    },
+    {
+      "id": "09a6342fafe2faa8734d826c",
+      "role": "anon",
+      "source": "咦？有一个奇怪的链接。好想点击一下啊。",
+      "motion": "surprised01"
+    },
+    {
+      "id": "8d2b3fa6d4f6b7d8770ff5d2",
+      "role": "rana",
+      "source": "有趣的链接。",
+      "motion": "smile02"
+    },
+    {
+      "id": "5433bf53df51d9e8dce2cf31",
+      "role": "soyo",
+      "source": "只是打开看看的话应该没问题吧……",
+      "motion": "thinking01"
+    },
+    {
+      "id": "7a8d32b6d254bd28264b5059",
+      "role": "taki",
+      "source": "灯，看到陌生的链接不要乱点哦。",
+      "motion": "serious01"
+    },
+    {
+      "id": "f1612a5b44612a5c786860ff",
+      "role": "tomori",
+      "source": "要用手机扫码吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "bf1d3d3e5515e2a2d91a067c",
+      "role": "anon",
+      "source": "要用手机扫码吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "77258e430a95f17ee39d0041",
+      "role": "rana",
+      "source": "手机？不太会用……",
+      "motion": "sad01"
+    },
+    {
+      "id": "793bf0ec7ebf632f4194f71f",
+      "role": "soyo",
+      "source": "要用手机扫码吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "a0f07cd71a6bd20812663d49",
+      "role": "taki",
+      "source": "要用手机扫码吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "33f19f49c2c2477aa69ce0bd",
+      "role": "tomori",
+      "source": "要放大图片吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "36b97db3f376caa6e878b287",
+      "role": "anon",
+      "source": "要放大图片吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "5b01fbf62145dc506f14992b",
+      "role": "rana",
+      "source": "要放大图片吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "545c7b94070f62146640fba3",
+      "role": "soyo",
+      "source": "要放大图片吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "b1f5010d07aafa80cd3ae917",
+      "role": "taki",
+      "source": "要放大图片吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "9cee3811a55ea9bc6aede59e",
+      "role": "tomori",
+      "source": "要复制代码吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "2a0fb70bc1cadd5a7bcf4678",
+      "role": "anon",
+      "source": "要复制代码吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "d328f05034e9ff863f2a38af",
+      "role": "rana",
+      "source": "要复制代码吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "6237937c2e8e97073b9c305e",
+      "role": "soyo",
+      "source": "要复制代码吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "3743bf0321f89fb3352f23c5",
+      "role": "taki",
+      "source": "要复制代码吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "fc5d1c17efb1b13e31f90af5",
+      "role": "tomori",
+      "source": "GitHub？感觉很酷的样子……",
+      "motion": "smile01"
+    },
+    {
+      "id": "b1d3673621e7e32289dd0e49",
+      "role": "anon",
+      "source": "呐呐，爽世世，GitHub据说是全球最大的交友网站哦！",
+      "motion": "smile02"
+    },
+    {
+      "id": "aeb4dca3df0cf35a456f56d1",
+      "role": "rana",
+      "source": "GitHub？是什么？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "a2bc5bbf5b6fac503b75eca8",
+      "role": "soyo",
+      "source": "GitHub上面托管了许多有趣的项目呢。",
+      "motion": "smile03"
+    },
+    {
+      "id": "59523a0ced71d6d796b6232a",
+      "role": "taki",
+      "source": "GitHub啊。我偶尔会用托管在上面的项目。",
+      "motion": "serious01"
+    },
+    {
+      "id": "17bb927dacc796e20c1cf390",
+      "role": "tomori",
+      "source": "我的邮件也是我内心的呐喊呢。",
+      "motion": "kandou01"
+    },
+    {
+      "id": "fd3c1f9c96128f222f668b49",
+      "role": "anon",
+      "source": "灯灯的邮件总是包含充沛的情感，真厉害！",
+      "motion": "smile01"
+    },
+    {
+      "id": "08a17d111df71fb290eeffe1",
+      "role": "rana",
+      "source": "写邮件……真麻烦……",
+      "motion": "sigh01"
+    },
+    {
+      "id": "a1d0f9de9f9744314701a40b",
+      "role": "soyo",
+      "source": "感觉邮件很正式呢。",
+      "motion": "serious01"
+    },
+    {
+      "id": "6a236cea01d701ccf7f27ab0",
+      "role": "taki",
+      "source": "邮件我会及时回复的！",
+      "motion": "smile02"
+    },
+    {
+      "id": "bd4bdf4ec3f01a3ec0d30b2f",
+      "role": "tomori",
+      "source": "要看看{text}标签吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "039a96be04ad2739370b1629",
+      "role": "anon",
+      "source": "要看看{text}标签吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "d18bea22ffafbef8e1ee9135",
+      "role": "rana",
+      "source": "要看看{text}标签吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "c82f8b67494c089eaf551528",
+      "role": "soyo",
+      "source": "要看看{text}标签吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "f291de27d58487d44adcf6c9",
+      "role": "taki",
+      "source": "要看看{text}标签吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "5c4d6af6bced35196af53d66",
+      "role": "tomori",
+      "source": "要看看{text}分类吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "33b7dc8393941ea7e3132132",
+      "role": "anon",
+      "source": "要看看{text}分类吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "7ad18e8194df6cf2a97f660d",
+      "role": "rana",
+      "source": "要看看{text}分类吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "6ce0130cc60c460757062629",
+      "role": "soyo",
+      "source": "要看看{text}分类吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "dc883f57bba4b7292633faac",
+      "role": "taki",
+      "source": "要看看{text}分类吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "c98b98672e3a8e5261dc9d23",
+      "role": "tomori",
+      "source": "要看看{text}这篇文章吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "de76fd4885e77d631c858947",
+      "role": "anon",
+      "source": "要看看{text}这篇文章吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "c96b91fc8a2e9542a13a32c6",
+      "role": "rana",
+      "source": "要看看{text}这篇文章吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "44128d09b5753a30c82a2384",
+      "role": "soyo",
+      "source": "要看看{text}这篇文章吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "a949dd1b7e94e2132584e7e6",
+      "role": "taki",
+      "source": "要看看{text}这篇文章吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "b324bccd3e89919bffc74342",
+      "role": "tomori",
+      "source": "要阅读全文吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "c080d58116642b2fb5495a7c",
+      "role": "anon",
+      "source": "要阅读全文吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "18a4721ed7312cbaa7a643d4",
+      "role": "rana",
+      "source": "要阅读全文吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "9db7444dd5471d176bf40d70",
+      "role": "soyo",
+      "source": "要阅读全文吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "ab35f117c0e5bd3759102c6b",
+      "role": "taki",
+      "source": "要阅读全文吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "e120dd304f1cfec89d7406bd",
+      "role": "tomori",
+      "source": "要看看评论吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "0c7acd8a2212d1f5ba6b297d",
+      "role": "anon",
+      "source": "要看看评论吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "53dccc4bd6c33c6a4ebc8cef",
+      "role": "rana",
+      "source": "要看看评论吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "27d49c9b75ff6b8e62c0aed3",
+      "role": "soyo",
+      "source": "要看看评论吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "cd21ee18fc976f33e637efd2",
+      "role": "taki",
+      "source": "要看看评论吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "e03e2420cd648f89e7e855b2",
+      "role": "tomori",
+      "source": "要看看备案吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "e19ff3cfe5d92619daaf18af",
+      "role": "anon",
+      "source": "要看看备案吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "621d3d3e4a54190f4ae36b41",
+      "role": "rana",
+      "source": "要看看备案吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "7dff1579467f804625a705e4",
+      "role": "soyo",
+      "source": "要看看备案吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "03e5a284a25e7995145d289f",
+      "role": "taki",
+      "source": "要看看备案吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "3e5e5e101e0cfe1b02977f66",
+      "role": "tomori",
+      "source": "要看看{text}吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "eca7915c18a8642fff6ab731",
+      "role": "anon",
+      "source": "要看看{text}吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "1b1ca5a59683fafdff9ffc9a",
+      "role": "rana",
+      "source": "要看看{text}吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "8e8285fe2c9df57ff62209af",
+      "role": "soyo",
+      "source": "要看看{text}吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "eb2a400501a4edaaabafc29a",
+      "role": "taki",
+      "source": "要看看{text}吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "2ae6477229b0dfd08a29544d",
+      "role": "tomori",
+      "source": "要回到顶部吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "35e72e5517b6b794f4e3ce98",
+      "role": "anon",
+      "source": "要回到顶部吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "011ca008bcbad3154d92f055",
+      "role": "rana",
+      "source": "要回到顶部吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "58b9f3c777c9a9417ce52c35",
+      "role": "soyo",
+      "source": "要回到顶部吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "6c7a4d2cf3a00e83c096505f",
+      "role": "taki",
+      "source": "要回到顶部吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "5c50a5bdf4a905ef97fb6d34",
+      "role": "tomori",
+      "source": "每次Live之后，都能收到很多点赞呢……",
+      "motion": "smile01"
+    },
+    {
+      "id": "262965a4939cb36db477bcff",
+      "role": "anon",
+      "source": "最近发在MyGO!!!!!的账号上的动态，总是有许多点赞呢。",
+      "motion": "smile02"
+    },
+    {
+      "id": "060ef7731ac1b0ae9ebdf385",
+      "role": "rana",
+      "source": "赞，点一下。",
+      "motion": "smile03"
+    },
+    {
+      "id": "37a9bd851b02c9b6e4e09cb2",
+      "role": "soyo",
+      "source": "最近MyGO!!!!!的账号运营得真好啊……有许多点赞呢。",
+      "motion": "smile04"
+    },
+    {
+      "id": "7ed350f41580844e13a7b2dd",
+      "role": "taki",
+      "source": "你这家伙，竟敢不给灯点赞！",
+      "motion": "angry01"
+    },
+    {
+      "id": "ea06a4165eb3ca62806303bf",
+      "role": "tomori",
+      "source": "要看看微信吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "e7ccfacfe0ca3519f8815b09",
+      "role": "anon",
+      "source": "要看看微信吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "b393cee9f6441ad2c081f5f9",
+      "role": "rana",
+      "source": "要看看微信吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "942a9aa99f30d815c998a2c4",
+      "role": "soyo",
+      "source": "要看看微信吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "dad39f167f79f3cb65ff1eb1",
+      "role": "taki",
+      "source": "要看看微信吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "9ec1499d97d008e2e3689cdc",
+      "role": "tomori",
+      "source": "要看看支付宝吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "6716026f25d5a17bcfaac379",
+      "role": "anon",
+      "source": "要看看支付宝吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "dffc3448f417316f1c7f8594",
+      "role": "rana",
+      "source": "要看看支付宝吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "7c7e6f6356b9aa1b476b562a",
+      "role": "soyo",
+      "source": "要看看支付宝吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "2f59769653a1fea8492599ea",
+      "role": "taki",
+      "source": "要看看支付宝吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "d20a96ff3de5092c38dff622",
+      "role": "tomori",
+      "source": "比特币？是一种硬币吗？好想收集一些……",
+      "motion": "smile01"
+    },
+    {
+      "id": "6bc9cb3e8da7f28769c541da",
+      "role": "anon",
+      "source": "当年要是多买一些比特币就好了啊……",
+      "motion": "sad01"
+    },
+    {
+      "id": "1497d107297b6a374ca8c0b0",
+      "role": "rana",
+      "source": "比特币是什么？可以买抹茶芭菲吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "7b3a1f83222fd06b777713d7",
+      "role": "soyo",
+      "source": "妈妈有不少比特币呢。",
+      "motion": "smile02"
+    },
+    {
+      "id": "ef777960683be0c8ab5d94be",
+      "role": "taki",
+      "source": "感觉管理比特币会很麻烦呢。",
+      "motion": "sigh01"
+    },
+    {
+      "id": "2051d2f1a2f9ce173d3d7082",
+      "role": "tomori",
+      "source": "想要把我内心的呐喊，传达给大家！",
+      "motion": "kandou01"
+    },
+    {
+      "id": "5a50de4795b0713928d0ed68",
+      "role": "anon",
+      "source": "好东西要让更多人知道才行哦。",
+      "motion": "smile01"
+    },
+    {
+      "id": "d4e561885f75f78d56f8b8d6",
+      "role": "rana",
+      "source": "外婆说，要多分享。",
+      "motion": "serious01"
+    },
+    {
+      "id": "1f6baef9e869ef9b14bd1deb",
+      "role": "soyo",
+      "source": "小爱音总是喜欢在群里分享各种各样的信息呢。",
+      "motion": "smile02"
+    },
+    {
+      "id": "6e5614956b5ebe9da871c507",
+      "role": "taki",
+      "source": "分享，是对作者的鼓励吧，大概。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "2977b8db543b4aab001c31b4",
+      "role": "tomori",
+      "source": "要分享到微博吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "56554917bbd7bd18815f3964",
+      "role": "anon",
+      "source": "要分享到微博吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "e016563fd5fccdb809d5f991",
+      "role": "rana",
+      "source": "要分享到微博吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "939c745915d03f3a42c8a36c",
+      "role": "soyo",
+      "source": "要分享到微博吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "25365ff6d291bbd26d284a6b",
+      "role": "taki",
+      "source": "要分享到微博吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "2312f438ab6d755611140f37",
+      "role": "tomori",
+      "source": "要分享到微信吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "7a2b4fbd2083ea8ddd534d62",
+      "role": "anon",
+      "source": "要分享到微信吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "8536392f9ebb76de97e93fab",
+      "role": "rana",
+      "source": "要分享到微信吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "173a3418419a78820cb002c1",
+      "role": "soyo",
+      "source": "要分享到微信吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "a98345baaf7cd4b8ee8f6931",
+      "role": "taki",
+      "source": "要分享到微信吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "62a7e6408455fe7faa7b65f7",
+      "role": "tomori",
+      "source": "要分享到豆瓣吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "25603fecf7497673cfe586d1",
+      "role": "anon",
+      "source": "要分享到豆瓣吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "ed6865d11182807e1b28f0d3",
+      "role": "rana",
+      "source": "要分享到豆瓣吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "228a36aa006549c72d08d6ad",
+      "role": "soyo",
+      "source": "要分享到豆瓣吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "34a8ca3d8f595e3c7cd35936",
+      "role": "taki",
+      "source": "要分享到豆瓣吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "00e9dd9fb0503dd8df9c063b",
+      "role": "tomori",
+      "source": "要分享到QQ空间吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "03d2b255beaae169ee321c5a",
+      "role": "anon",
+      "source": "要分享到QQ空间吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "7d2039be0e4d794a211eed25",
+      "role": "rana",
+      "source": "要分享到QQ空间吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "b187555620fd1ddec8c02782",
+      "role": "soyo",
+      "source": "要分享到QQ空间吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "aa583f50efefce3391da3e8b",
+      "role": "taki",
+      "source": "要分享到QQ空间吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "20b6a72a257c5326c168d760",
+      "role": "tomori",
+      "source": "X上面好像有很多人在画关于我们的画。",
+      "motion": "smile01"
+    },
+    {
+      "id": "34550d5610bc5b2967acd757",
+      "role": "anon",
+      "source": "诶？Ave Mujica上X热榜了！MyGO!!!!!什么时候也能这样呢？",
+      "motion": "surprised01"
+    },
+    {
+      "id": "2588005ee4ea4c0c572d7885",
+      "role": "rana",
+      "source": "X？可以开Live吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "b86b9f542c4322f9c04feb48",
+      "role": "soyo",
+      "source": "其实我在X上有很多账号呢。",
+      "motion": "smile02"
+    },
+    {
+      "id": "bc3bdc275126a90db8226d81",
+      "role": "taki",
+      "source": "灯！看X的时候一定要注意，不要看不好的东西。",
+      "motion": "serious01"
+    },
+    {
+      "id": "5da7de43a1c8c96cad0b88c6",
+      "role": "tomori",
+      "source": "Facebook上好像也有关于我们的信息呢……我看看……",
+      "motion": "smile01"
+    },
+    {
+      "id": "dde1fa8b94a9a0d1e9eb2040",
+      "role": "anon",
+      "source": "Facebook上有个叫「武士道迷因」的漫画，感觉很有趣呢！",
+      "motion": "smile02"
+    },
+    {
+      "id": "d1896f082e782a8cc45f45c4",
+      "role": "rana",
+      "source": "Facebook？不知道。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "dbb54698c30c9090eb0cdd92",
+      "role": "soyo",
+      "source": "其实我在Facebook上也有很多账号呢。",
+      "motion": "smile03"
+    },
+    {
+      "id": "416ba79a5f3914724d12ee27",
+      "role": "taki",
+      "source": "要看看Facebook吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "02f79f31e00cbc551837042c",
+      "role": "tomori",
+      "source": "来看看下一篇文章吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "47c99201625349dd0b646c54",
+      "role": "anon",
+      "source": "来看看下一篇文章吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "66ae4f0de33d57168422f526",
+      "role": "rana",
+      "source": "来看看下一篇文章吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "0372d8610915cf57cdde2c9c",
+      "role": "soyo",
+      "source": "来看看下一篇文章吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "7a2d497f72af054108748e41",
+      "role": "taki",
+      "source": "来看看下一篇文章吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "139ebbb544591752ad2d5403",
+      "role": "tomori",
+      "source": "来看看上一篇文章吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "58b7eee52cd9bc95ff8e3901",
+      "role": "anon",
+      "source": "来看看上一篇文章吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "318e7e62d973009f6a2049f3",
+      "role": "rana",
+      "source": "来看看上一篇文章吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "1be84f0de315809f523c4c1a",
+      "role": "soyo",
+      "source": "来看看上一篇文章吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "16323a13f2da11825412f5d6",
+      "role": "taki",
+      "source": "来看看上一篇文章吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "be65ae4eda934dcf9d2c1ecc",
+      "role": "tomori",
+      "source": "去下一页看看吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "838bcd6477b44498eaa86b5f",
+      "role": "anon",
+      "source": "去下一页看看吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "2c579c7c350e66a3f93dd27f",
+      "role": "rana",
+      "source": "去下一页看看吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "74b23581831f90b3c6e82958",
+      "role": "soyo",
+      "source": "去下一页看看吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "4ea1593d44b6500fb177fca1",
+      "role": "taki",
+      "source": "去下一页看看吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "7c760fa9ae9dcef2e5269b5d",
+      "role": "tomori",
+      "source": "去上一页看看吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "57fe8020cfb953ccec5ff91b",
+      "role": "anon",
+      "source": "去上一页看看吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "9f054a221db6a27843aeaa01",
+      "role": "rana",
+      "source": "去上一页看看吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "b19ff5ddf45ff6c10c945023",
+      "role": "soyo",
+      "source": "去上一页看看吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "f4bfdf7aab72cb4d8d963fb2",
+      "role": "taki",
+      "source": "去上一页看看吧。",
+      "motion": "thinking01"
+    },
+    {
+      "id": "9eb2c02c5447694d857333db",
+      "role": "tomori",
+      "source": "小爱喜欢叫我「灯灯」，真是可爱的名字……",
+      "motion": "smile01"
+    },
+    {
+      "id": "6264f3f6ebddd48e71bd8054",
+      "role": "anon",
+      "source": "果然还是叫「ANON TOKYO」最帅吧。",
+      "motion": "smile02"
+    },
+    {
+      "id": "13be04225bb96ad3331dd333",
+      "role": "rana",
+      "source": "我是「抹茶芭菲猫」。",
+      "motion": "smile03"
+    },
+    {
+      "id": "95f4565bfbc407413aa00297",
+      "role": "soyo",
+      "source": "跟小爱音说了很多次，她还是叫我「爽世世」呢……真是麻烦的孩子。",
+      "motion": "sigh01"
+    },
+    {
+      "id": "b62ef0aaf17ea66f5fb44040",
+      "role": "taki",
+      "source": "爱音那家伙，叫「狸希」什么的太差劲了！不过如果是灯的话，也不是不可以……",
+      "motion": "angry01"
+    },
+    {
+      "id": "b62761615d9b34901492e2e0",
+      "role": "tomori",
+      "source": "要留下邮箱吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "f836ace6bb462f2fe7bae103",
+      "role": "anon",
+      "source": "要留下邮箱吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "a6f6228a6a5b88d487ebe9e4",
+      "role": "rana",
+      "source": "要留下邮箱吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "196b41bf9a04eacf49bc72e4",
+      "role": "soyo",
+      "source": "要留下邮箱吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "92871702960e2561cfcedf1c",
+      "role": "taki",
+      "source": "要留下邮箱吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "2bcbb1b0115a1edc3ab8e286",
+      "role": "tomori",
+      "source": "要留下链接吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "2e631481f0935c0688a82aeb",
+      "role": "anon",
+      "source": "要留下链接吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "48a7038586ff2b92b7ba70b8",
+      "role": "rana",
+      "source": "要留下链接吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "7f4e5d793690dc7a4b248b13",
+      "role": "soyo",
+      "source": "要留下链接吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "5a49b105b0868d3c9986bff2",
+      "role": "taki",
+      "source": "要留下链接吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "04687c34853d04a128329ae1",
+      "role": "tomori",
+      "source": "评论也是内心的呐喊啊！",
+      "motion": "kandou01"
+    },
+    {
+      "id": "c78a93bcc7297c9a0281751c",
+      "role": "anon",
+      "source": "想要去评论些什么吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "b241f1c20ad66c4968e0b8b1",
+      "role": "rana",
+      "source": "评论……感觉好麻烦……",
+      "motion": "sigh01"
+    },
+    {
+      "id": "103ecda98164a516babd8d6d",
+      "role": "soyo",
+      "source": "评论很重要呢……发了不好的消息会被拉黑或者屏蔽呢……",
+      "motion": "serious01"
+    },
+    {
+      "id": "37e8bea471156a74528e8221",
+      "role": "taki",
+      "source": "你要是敢在评论里说灯「太拼命了」之类的话，我绝对要拉黑你！",
+      "motion": "angry01"
+    },
+    {
+      "id": "56c686b2512bdf082858bf52",
+      "role": "tomori",
+      "source": "Markdown好厉害……几个字符就能写出复杂的格式……",
+      "motion": "smile01"
+    },
+    {
+      "id": "91ed4db3bf36e03e2fd15c56",
+      "role": "anon",
+      "source": "其实我能够熟练使用Markdown哦！",
+      "motion": "smile02"
+    },
+    {
+      "id": "f0a212881206fa233fe3d152",
+      "role": "rana",
+      "source": "Markdown？什么意思？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "343ec91748a0adb4d0fd591e",
+      "role": "soyo",
+      "source": "感觉现在这个时代，Markdown成了上网必会技能了呢……",
+      "motion": "serious01"
+    },
+    {
+      "id": "76289eb1b640f711b00a15fc",
+      "role": "taki",
+      "source": "Markdown写起来很便利，我挺喜欢的。",
+      "motion": "smile03"
+    },
+    {
+      "id": "d6b74eabe36333cccc551a27",
+      "role": "tomori",
+      "source": "网上有很多人喜欢用MyGO!!!!!的表情呢……",
+      "motion": "smile01"
+    },
+    {
+      "id": "009920a0ab4358280bff8323",
+      "role": "anon",
+      "source": "网上有很多人喜欢用关于我的表情哦！感觉就像大明星一样！",
+      "motion": "smile02"
+    },
+    {
+      "id": "187052e3aad1d66b6ec5e2ea",
+      "role": "rana",
+      "source": "😼😻❤️🍵🍨🍜",
+      "motion": "smile03"
+    },
+    {
+      "id": "84697cf3d4fef0ecd7194ba5",
+      "role": "soyo",
+      "source": "感觉小爱音的表情的品味也很微妙呢……",
+      "motion": "sigh01"
+    },
+    {
+      "id": "76f0b54cca15725c7e924db2",
+      "role": "taki",
+      "source": "有中国的粉丝给我推荐了许多熊猫头表情，在那之后我和爱音对线再也没输过了。",
+      "motion": "smile04"
+    },
+    {
+      "id": "238082bc08fed7313933da52",
+      "role": "tomori",
+      "source": "要预览一下吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "b52072934062bf64988f87b4",
+      "role": "anon",
+      "source": "要预览一下吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "45c49939212204ef073470ff",
+      "role": "rana",
+      "source": "要预览一下吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "5f1fd71f6cfcb2d1ceec9f39",
+      "role": "soyo",
+      "source": "要预览一下吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "bd19e2e049fc4e1b84f252f7",
+      "role": "taki",
+      "source": "要预览一下吗？",
+      "motion": "thinking01"
+    },
+    {
+      "id": "ed3006760822987768b3f2e2",
+      "role": "tomori",
+      "source": "大家内心的呐喊，传达到了……",
+      "motion": "smile01"
+    },
+    {
+      "id": "dd02e9e7d3c5de1cabff139b",
+      "role": "anon",
+      "source": "MyGO!!!!!的评论区，总是有许多有趣的内容呢。",
+      "motion": "smile02"
+    },
+    {
+      "id": "fb906bb45671683bab070e44",
+      "role": "rana",
+      "source": "有趣的评论。",
+      "motion": "smile03"
+    },
+    {
+      "id": "b61c9e7d99cea1d16023ebc4",
+      "role": "soyo",
+      "source": "评论区总是有许多有趣的内容呢。",
+      "motion": "smile04"
+    },
+    {
+      "id": "7fa98ef54f2fd504c396dd5e",
+      "role": "taki",
+      "source": "让我找找有没有关于灯的评论……",
+      "motion": "thinking01"
+    }
+  ]
+}

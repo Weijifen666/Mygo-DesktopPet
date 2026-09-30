@@ -1,0 +1,59 @@
+:root { color-scheme: light; font-family: "Segoe UI", "Microsoft YaHei", sans-serif; }
+html, body { width: 100%; height: 100%; margin: 0; overflow: hidden; background: transparent !important; user-select: none; }
+body { position: relative; }
+button, input, textarea { font: inherit; }
+button { cursor: pointer; }
+.icon-button { display: grid; width: 32px; height: 32px; padding: 0; place-items: center; border: 1px solid rgba(45,55,65,.16); border-radius: 6px; color: #34404a; background: rgba(255,255,255,.92); }
+#quick-controls { display: none; }
+#voice-status { position: absolute; left: 12px; bottom: 12px; z-index: 1050; max-width: 275px; padding: 7px 10px; border-radius: 7px; color: #34404a; background: rgba(255,255,255,.96); box-shadow: 0 3px 12px rgba(25,32,38,.15); font-size: 12px; pointer-events: none; }
+#voice-status[hidden] { display: none; }
+#waifu-tool span, #waifu-tool .desktop-tool-button { box-sizing: border-box; height: 28px !important; }
+#waifu-tool .desktop-tool-button { display: block; width: 24px; padding: 0; border: 0; outline: none; color: #7b8c9d; background: transparent; line-height: 0; transition: color .3s; }
+#waifu-tool .desktop-tool-button:hover, #waifu-tool .desktop-tool-button:focus-visible, #waifu-tool .desktop-tool-button[aria-pressed="true"] { color: #38b; }
+#waifu-tool .desktop-tool-button svg { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+#quick-voice-toggle .voice-on { display: none; }
+#quick-voice-toggle[aria-pressed="true"] .voice-on { display: inline; }
+#quick-voice-toggle[aria-pressed="true"] .voice-off { display: none; }
+body.chat-open #waifu-tool .desktop-tool-button { display: none; }
+#character-reply { position: absolute; top: 70px; left: 12px; z-index: 1040; box-sizing: border-box; width: 250px; padding: 10px 12px; overflow: visible; border: 1px solid rgba(54,64,72,.16); border-radius: 8px; color: #303840; background: rgba(255,255,255,.95); box-shadow: 0 5px 16px rgba(25,32,38,.18); font-size: 13px; line-height: 1.5; white-space: pre-wrap; word-break: break-word; user-select: text; }
+#character-reply-text { display: block; max-height: 128px; overflow-y: auto; }
+#character-reply::after { content: ""; position: absolute; bottom: -9px; left: 120px; width: 16px; height: 16px; border-right: 1px solid rgba(54,64,72,.16); border-bottom: 1px solid rgba(54,64,72,.16); background: rgba(255,255,255,.95); transform: rotate(45deg); }
+#quick-form { display: grid; position: absolute; right: 12px; bottom: 12px; z-index: 1060; box-sizing: border-box; width: 294px; grid-template-columns: minmax(0,1fr) 40px; gap: 7px; padding: 8px; border: 1px solid rgba(54,64,72,.16); border-radius: 7px; background: rgba(255,255,255,.96); box-shadow: 0 5px 16px rgba(25,32,38,.2); }
+#quick-form[hidden] { display: none; }
+#quick-input { min-width: 0; resize: none; padding: 7px 8px; border: 1px solid #cbd2d7; border-radius: 5px; outline: none; color: #252c32; background: #f8f9fa; line-height: 1.35; }
+#quick-input:focus { border-color: #3a7a72; box-shadow: 0 0 0 2px rgba(58,122,114,.15); }
+body.chat-open #quick-form { display: none; }
+#chat-panel { display: none; position: absolute; top: 10px; right: 10px; bottom: 10px; z-index: 1100; width: 320px; overflow: hidden; border: 1px solid rgba(54,64,72,.16); border-radius: 8px; background: rgba(249,250,251,.96); box-shadow: 0 8px 24px rgba(25,32,38,.2); }
+body.chat-open #chat-panel { display: grid; grid-template-rows: auto auto minmax(0,1fr) auto; }
+#chat-panel header { display: flex; min-height: 48px; padding: 8px 10px 8px 14px; align-items: center; justify-content: space-between; border-bottom: 1px solid #e1e5e8; background: #fff; }
+#chat-panel header strong, #chat-panel header span { display: block; letter-spacing: 0; }
+#chat-panel header strong { color: #252c32; font-size: 14px; }
+#agent-status { margin-top: 2px; color: #6a747d; font-size: 11px; }
+.header-actions, .key-row { display: flex; gap: 6px; }
+#settings { padding: 10px 12px; border-bottom: 1px solid #e1e5e8; background: #f3f5f6; }
+#settings label { display: block; margin-bottom: 6px; color: #46515a; font-size: 12px; }
+#api-key { min-width: 0; flex: 1; padding: 7px 8px; border: 1px solid #cbd2d7; border-radius: 5px; outline: none; background: #fff; }
+#api-key:focus, #chat-input:focus { border-color: #3a7a72; box-shadow: 0 0 0 2px rgba(58,122,114,.15); }
+#save-key, .send-button { border: 0; border-radius: 5px; color: #fff; background: #33766e; }
+#save-key { padding: 0 12px; }
+.quiet-button { margin-top: 8px; padding: 4px 0; border: 0; color: #7a4141; background: transparent; font-size: 11px; }
+#messages { min-height: 0; padding: 12px; overflow-y: auto; user-select: text; }
+.message { width: fit-content; max-width: 84%; margin: 0 0 10px; padding: 8px 10px; border-radius: 7px; color: #2d353b; background: #e8ecee; font-size: 13px; line-height: 1.5; white-space: pre-wrap; word-break: break-word; }
+.message.user { margin-left: auto; color: #fff; background: #33766e; }
+.message.system { margin-right: auto; margin-left: auto; padding: 4px 7px; color: #717b83; background: transparent; font-size: 11px; text-align: center; }
+#chat-form { display: grid; grid-template-columns: minmax(0,1fr) 38px; gap: 7px; padding: 10px; border-top: 1px solid #e1e5e8; background: #fff; }
+#chat-input { min-width: 0; max-height: 88px; resize: none; padding: 8px 9px; border: 1px solid #cbd2d7; border-radius: 6px; outline: none; color: #252c32; background: #f8f9fa; line-height: 1.35; }
+.send-button { width: 38px; min-height: 38px; font-size: 18px; }
+.send-button:disabled, #save-key:disabled { cursor: wait; opacity: .55; }
+#waifu { position: absolute !important; left: -34px !important; bottom: -98px !important; z-index: 10 !important; }
+#waifu:hover, #waifu:active { transform: none !important; }
+#waifu-toggle { display: none !important; }
+#live2d { cursor: grab !important; touch-action: none; }
+#live2d.dragging { cursor: grabbing !important; }
+#waifu-tool, #model-selection-panel, #texture-selection-panel, #quick-form, #character-reply, #chat-panel { -webkit-app-region: no-drag; }
+#waifu-tips { left: 34px !important; top: 24px !important; width: 220px !important; }
+body.agent-reply-visible #waifu-tips { opacity: 0 !important; }
+#waifu-tool { top: 0 !important; right: 70px !important; }
+#model-selection-panel, #texture-selection-panel { position: fixed !important; top: 12px !important; right: auto !important; bottom: auto !important; left: 12px !important; box-sizing: border-box !important; width: calc(100vw - 24px) !important; max-height: calc(100vh - 24px) !important; padding: 10px !important; overflow-x: hidden !important; overflow-y: auto !important; column-count: initial !important; z-index: 2000 !important; }
+#model-selection-panel[style*="display: block"], #texture-selection-panel[style*="display: block"] { display: grid !important; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 7px; align-items: start; }
+#model-selection-panel button, #texture-selection-panel button { box-sizing: border-box; width: 100% !important; min-width: 0; margin: 0 !important; break-inside: avoid; }
