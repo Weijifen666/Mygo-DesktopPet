@@ -22,6 +22,25 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\setup-upstream.ps1
 
 API Key、聊天记录、音频、模型和运行缓存都保存在本机，不随仓库提供。自由对话只向配置的 DeepSeek 接口发送文字；原声和模型不发送给该接口。
 
+## 在无 NVIDIA 显卡的 Windows 笔记本离线运行语音
+
+已拥有私人语音资产的用户，可以把固定语音库和已训练模型从自己的原电脑迁移到自己的笔记本。两台电脑在使用时无需联网或保持连接；首次安装需要网络下载 Python、Node.js 和依赖。笔记本推荐至少 24 GB 内存及约 12 GB 空余磁盘。固定台词读取预生成 WAV，点击时不运行模型；自由对话在笔记本 CPU 上合成，首次生成可能等待较久，实际速度取决于机器，应自行试听验证。
+
+在原电脑的项目目录运行以下命令，把 `<U盘路径>` 改成 U 盘上的一个新目录：
+
+```powershell
+py -3.10 .\scripts\private_voice_transfer.py export "<U盘路径>\MyGO-private-voices"
+```
+
+在笔记本上把本仓库克隆到较短的路径（例如 `C:\MyGO\Mygo-DesktopPet`，避免 Windows 默认路径长度限制），安装 Python 3.10（64 位）、Node.js 和 Git，然后在仓库目录运行：
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\setup-cpu-voice.ps1 -PrivatePack "<U盘路径>\MyGO-private-voices"
+.\start-cpu-voice.cmd
+```
+
+迁移目录约 6 GiB，包含私人模型权重、选用的少量参考录音、完整固定语音库及本地语音内容校验模型。请只在自己的设备间私下转移，不上传 GitHub 或网盘公开分享。虚拟环境不复制；安装脚本会在笔记本重新建立官方 PyTorch CPU 环境，并校验每个转移文件。若启动失败，可查看 `experiments/cosy-service.stderr.log`。自由聊天仍需自行配置 DeepSeek API Key 和访问其文本接口；离线运行的是语音推理。
+
 ## 开发
 
 `main.cjs`、`desktop.*` 和 `widget-voice-bank.js` 是桌宠界面与播放逻辑；`agent-service.cjs` 处理文字对话；`tts/` 保留运行时语音接口和固定语音库构建所需代码。运行 `npm test` 检查基础交互；GitHub Actions 会在推送时运行源码检查。

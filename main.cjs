@@ -7,6 +7,11 @@ const localTts = require('./tts-client.cjs');
 
 function voiceDeploymentReady() {
   try {
+    try {
+      const config=JSON.parse(fs.readFileSync(path.join(__dirname,'tts/cosy-production.json'),'utf8'));
+      const bank=JSON.parse(fs.readFileSync(path.join(__dirname,'tts/widget-bank/manifest.json'),'utf8'));
+      if(bank.status==='completed' && bank.voice_revision===config.revision && Object.keys(bank.rows || {}).length===836)return true;
+    } catch {}
     const cosy=path.join(__dirname,'experiments/cosy-desktop-deployment.json');
     if(fs.existsSync(cosy))return JSON.parse(fs.readFileSync(cosy,'utf8')).status==='deployed';
     return JSON.parse(fs.readFileSync(path.join(__dirname, 'experiments/full-deployment.json'), 'utf8')).status === 'deployed';

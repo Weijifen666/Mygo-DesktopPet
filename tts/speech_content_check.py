@@ -19,8 +19,9 @@ def check(data,text):
     identity=uuid.uuid4().hex;audio=folder/(identity+'.wav');request=folder/(identity+'.json')
     try:
         audio.write_bytes(data);request.write_text(json.dumps(dict(audio=str(audio),text=text),ensure_ascii=False),encoding='utf-8')
-        result=subprocess.run([str(ROOT/'runtime/venv/Scripts/python.exe'),str(Path(__file__).resolve()),'--request',str(request)],
-                              cwd=ROOT,capture_output=True,text=True,encoding='utf-8',timeout=120,creationflags=subprocess.CREATE_NO_WINDOW)
+        python = sys.executable if os.environ.get('MYGO_COSY_CPU') == '1' else str(ROOT/'runtime/venv/Scripts/python.exe')
+        result=subprocess.run([python,str(Path(__file__).resolve()),'--request',str(request)],
+                              cwd=ROOT,capture_output=True,text=True,encoding='utf-8',errors='replace',timeout=300,creationflags=subprocess.CREATE_NO_WINDOW)
         if result.returncode:raise RuntimeError('Local speech-content check failed')
         return json.loads(result.stdout)
     finally:

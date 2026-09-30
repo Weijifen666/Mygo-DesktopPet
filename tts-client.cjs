@@ -11,7 +11,8 @@ async function synthesize(payload) {
   const controller = new AbortController();
   active = controller;
   // Complete longer local replies and queued synthesis; explicit clicks still abort immediately.
-  const timer = setTimeout(() => controller.abort(), 300000);
+  // CPU-only laptops may need several minutes for a newly generated reply.
+  const timer = setTimeout(() => controller.abort(), 900000);
   try {
     const response = await fetch('http://127.0.0.1:9881/synthesize', {
       method: 'POST', headers: { 'Content-Type': 'application/json' },

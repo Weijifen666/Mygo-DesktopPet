@@ -51,7 +51,9 @@ class CosyRuntime:
         from cosy_adapters import attach
         from cosy_flow_adapter import attach_flow
         from gpu_lock import gpu_lock
-        self.lock=gpu_lock();torch.set_num_threads(4)
+        self.lock=gpu_lock()
+        cpu_mode=not torch.cuda.is_available()
+        torch.set_num_threads(min(8, max(1, os.cpu_count() or 4)) if cpu_mode else 4)
         self.config=json.loads(CONFIG.read_text(encoding='utf-8'))
         if not self.config['approved_private_use'] or not self.config['user_voice_quality_accepted']:raise RuntimeError('This voice deployment is not accepted')
         self.weights={};self.references={}
@@ -65,7 +67,7 @@ class CosyRuntime:
                 if hashlib.sha256((ROOT/ref['audio']).read_bytes()).hexdigest()!=ref['audio_sha256']:raise RuntimeError('Production reference checksum mismatch')
             self.references[role]=info['references']
         sys.modules['wetext']=None
-        self.model=AutoModel(model_dir=str(BASE),fp16=True,load_trt=False,load_vllm=False)
+        self.model=AutoModel(model_dir=str(BASE),fp16=not cpu_mode,load_trt=False,load_vllm=False)
         self.model.frontend.speech_tokenizer_session.set_providers(['CPUExecutionProvider'])
         attach(self.model.model.llm);attach_flow(self.model.model.flow)
         self.model.model.llm.requires_grad_(False);self.model.model.flow.requires_grad_(False)

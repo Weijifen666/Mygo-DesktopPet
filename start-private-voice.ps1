@@ -1,4 +1,4 @@
-param()
+param([switch]$Cpu)
 $ErrorActionPreference = 'Stop'
 $projectRoot = $PSScriptRoot
 $configPath = Join-Path $projectRoot 'tts/cosy-production.json'
@@ -31,8 +31,12 @@ try {
         }
     } else {
         $env:HF_HOME = Join-Path $projectRoot 'runtime/hf-cache'
+        if ($Cpu) {
+            $env:CUDA_VISIBLE_DEVICES = '-1'
+            $env:MYGO_COSY_CPU = '1'
+        }
         $ownedService = Start-Process -FilePath $pythonExe -ArgumentList @('tts/cosy_service.py') -WorkingDirectory $projectRoot -PassThru -WindowStyle Hidden -RedirectStandardOutput (Join-Path $projectRoot 'experiments/cosy-service.stdout.log') -RedirectStandardError (Join-Path $projectRoot 'experiments/cosy-service.stderr.log')
-        $deadline = (Get-Date).AddMinutes(5)
+        $deadline = (Get-Date).AddMinutes($(if ($Cpu) { 10 } else { 5 }))
         do {
             if ($ownedService.HasExited) { throw 'Local voice service exited during startup.' }
             Start-Sleep -Seconds 2
