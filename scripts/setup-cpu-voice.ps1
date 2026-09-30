@@ -32,6 +32,16 @@ try {
     & $python (Join-Path $root 'tts/verify_voice_bank.py')
     if ($LASTEXITCODE -ne 0) { throw 'The fixed voice bank failed validation.' }
 
+    # Import checks cannot catch missing dependencies loaded from the model YAML.
+    # Generate and recognize one new line before reporting that CPU voices work.
+    $env:CUDA_VISIBLE_DEVICES = '-1'
+    $env:MYGO_COSY_CPU = '1'
+    $env:PYTHONUTF8 = '1'
+    $env:HF_HOME = Join-Path $root 'runtime/hf-cache'
+    $seed = Get-Random -Minimum 1 -Maximum 2147483647
+    & $python (Join-Path $root 'scripts/diagnose-voice-quality.py') --direct --generation-seed $seed
+    if ($LASTEXITCODE -ne 0) { throw 'CPU voice synthesis or intelligibility check failed; inspect experiments/voice-diagnostics/latest.json.' }
+
     $npm = Get-Command npm.cmd -ErrorAction SilentlyContinue
     if (-not $npm) { throw 'Install Node.js (with npm) first.' }
     & $npm.Source ci --no-audit --no-fund

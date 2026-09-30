@@ -39,6 +39,16 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\setup-cpu-voice.ps
 .\start-cpu-voice.cmd
 ```
 
+如果旧版安装后固定台词能播放、自由对话语音却无法正常生成，请先拉取最新代码，在笔记本上重新运行 `setup-cpu-voice.ps1`。早期 CPU 依赖清单漏掉了 CosyVoice 完整加载时才会用到的包。新版安装会真实生成并识别一条测试语音；未通过时会停止并给出本地诊断报告。
+
+桌宠运行时可在另一 PowerShell 窗口执行以下命令，对照固定语音与新生成语音。生成的 WAV 和报告仅保存在本机 `experiments/voice-diagnostics/`，不会上传到 GitHub：
+
+```powershell
+.\runtime\cosy-venv310\Scripts\python.exe .\scripts\diagnose-voice-quality.py --character anon
+```
+
+如果测试 WAV 本身听不清，查看 `experiments/voice-diagnostics/latest.json` 的 `asr.transcript`、`kana_error` 和 `x-content-check`，并检查 `experiments/cosy-service.stderr.log`。如果 WAV 清楚但桌宠内听不清，应检查 Windows 音频增强、播放设备和桌宠播放链路。同一模型权重可用于 CPU 和 NVIDIA GPU；CPU 采用 FP32 推理，主要差别是生成速度。
+
 迁移目录约 6 GiB，包含私人模型权重、选用的少量参考录音、完整固定语音库及本地语音内容校验模型。请只在自己的设备间私下转移，不上传 GitHub 或网盘公开分享。虚拟环境不复制；安装脚本会在笔记本重新建立官方 PyTorch CPU 环境，并校验每个转移文件。若启动失败，可查看 `experiments/cosy-service.stderr.log`。自由聊天仍需自行配置 DeepSeek API Key 和访问其文本接口；离线运行的是语音推理。
 
 ## 开发
