@@ -20,8 +20,9 @@ def check(data,text):
     try:
         audio.write_bytes(data);request.write_text(json.dumps(dict(audio=str(audio),text=text),ensure_ascii=False),encoding='utf-8')
         python = sys.executable if os.environ.get('MYGO_COSY_CPU') == '1' else str(ROOT/'runtime/venv/Scripts/python.exe')
+        environment={**os.environ,'PYTHONUTF8':'1','PYTHONIOENCODING':'utf-8'}
         result=subprocess.run([python,str(Path(__file__).resolve()),'--request',str(request)],
-                              cwd=ROOT,capture_output=True,text=True,encoding='utf-8',errors='replace',timeout=300,creationflags=subprocess.CREATE_NO_WINDOW)
+                              cwd=ROOT,capture_output=True,text=True,encoding='utf-8',errors='strict',env=environment,timeout=300,creationflags=subprocess.CREATE_NO_WINDOW)
         if result.returncode:raise RuntimeError('Local speech-content check failed')
         return json.loads(result.stdout)
     finally:
@@ -40,7 +41,7 @@ def main():
     segments,_=model.transcribe(str(audio),language='ja',beam_size=3,vad_filter=True,condition_on_previous_text=False,
                                vad_parameters=dict(threshold=.35,min_silence_duration_ms=500,speech_pad_ms=150))
     actual=''.join(s.text for s in segments)
-    print(json.dumps(dict(policy=POLICY,transcript=actual,**metrics(payload['text'],actual)),ensure_ascii=False),flush=True)
+    print(json.dumps(dict(policy=POLICY,transcript=actual,**metrics(payload['text'],actual)),ensure_ascii=True),flush=True)
 
 
 if __name__=='__main__':main()
